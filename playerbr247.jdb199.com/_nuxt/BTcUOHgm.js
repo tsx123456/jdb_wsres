@@ -1,0 +1,1 @@
+const e=[185,169],s={bonusWin:null,bonusTitle:null,bonusReward:null},n=["#f1e1a8","#430300"],o=[{fnName:"bonusRewardDisplay"}],u=[{fnName:"reSortingExtend"}],a={size:e,extendI18n:s,backgroundColor:n,preProcRequests:o,bonusFilterRequests:u};export{n as backgroundColor,u as bonusFilterRequests,a as default,s as extendI18n,o as preProcRequests,e as size};

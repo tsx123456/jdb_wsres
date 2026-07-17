@@ -1,0 +1,13 @@
+{
+  "file": "batch_pt_1.png",
+  "frames": { 
+    "TS_MSG03_pt_png": {"x":1,"y":1,"w":641,"h":523,"offX":33,"offY":15,"sourceW":705,"sourceH":561},
+    "TS_MSG04_pt_png": {"x":1,"y":526,"w":640,"h":267,"offX":32,"offY":149,"sourceW":705,"sourceH":561}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "643x794",
+    "smartupdate": "$TexturePacker:SmartUpdate:e181bdc536b78d056f38a25453d43a63:45377fac0f0f0282ed0b8baeebee3c7d:c55ae0deb700c30ff0c95a00e2357319$"
+  }
+}

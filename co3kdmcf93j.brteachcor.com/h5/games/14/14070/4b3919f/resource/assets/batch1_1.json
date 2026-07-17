@@ -1,0 +1,13 @@
+{
+  "file": "batch1_1.png",
+  "frames": { 
+    "UI_ExtraBet_Board.png32_png": {"x":1,"y":1,"w":73,"h":74},
+    "UI_TurboPanel_bg.png32_png": {"x":1,"y":77,"w":39,"h":39}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "75x117",
+    "smartupdate": "$TexturePacker:SmartUpdate:7c38bae1040fe4ab733f0fe2c1938e7b:721a0b0520d4e73a8f2874ff234d0996:eefc3f4c069d63d1e95ec39abd422679$"
+  }
+}

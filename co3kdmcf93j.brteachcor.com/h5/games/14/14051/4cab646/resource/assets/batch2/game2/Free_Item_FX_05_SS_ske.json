@@ -1,0 +1,318 @@
+{
+    "frameRate": 24,
+    "name": "Free_Item_FX_05_SS",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "Free_Item_FX_05_SS",
+            "aabb": {
+                "x": -800,
+                "y": -800,
+                "width": 1600,
+                "height": 648
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "length": 172,
+                    "name": "bone_sun",
+                    "parent": "root",
+                    "transform": {
+                        "x": 0.5,
+                        "y": -570.5
+                    }
+                },
+                {
+                    "length": 165,
+                    "name": "bone_cloud_01",
+                    "parent": "root",
+                    "transform": {
+                        "x": -247,
+                        "y": -471
+                    }
+                },
+                {
+                    "length": 192,
+                    "name": "bone_cloud_02",
+                    "parent": "root",
+                    "transform": {
+                        "x": 328,
+                        "y": -400
+                    }
+                },
+                {
+                    "length": 132,
+                    "name": "bone_center_flare",
+                    "parent": "root",
+                    "transform": {
+                        "x": 8,
+                        "y": -580.5
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "blendMode": "add",
+                    "name": "center_flare",
+                    "parent": "bone_center_flare"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "sun",
+                    "parent": "bone_sun"
+                },
+                {
+                    "name": "cloud_left",
+                    "parent": "bone_cloud_01"
+                },
+                {
+                    "name": "cloud_right",
+                    "parent": "bone_cloud_02"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "cloud_right",
+                            "display": [
+                                {
+                                    "name": "Free_BG/cloud_right"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "center_flare",
+                            "display": [
+                                {
+                                    "name": "Free_BG/center_flare"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sun",
+                            "display": [
+                                {
+                                    "name": "Free_BG/sun"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cloud_left",
+                            "display": [
+                                {
+                                    "name": "Free_BG/cloud_left"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 200,
+                    "playTimes": 0,
+                    "name": "newAnimation",
+                    "bone": [
+                        {
+                            "name": "bone_cloud_01",
+                            "translateFrame": [
+                                {
+                                    "duration": 100,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 100,
+                                    "tweenEasing": 0,
+                                    "x": -37,
+                                    "y": -18
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 100,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 100,
+                                    "tweenEasing": 0,
+                                    "x": 1.05,
+                                    "y": 1.05
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "bone_cloud_02",
+                            "translateFrame": [
+                                {
+                                    "duration": 118,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 82,
+                                    "tweenEasing": 0,
+                                    "x": 49,
+                                    "y": -11
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 51,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 49,
+                                    "tweenEasing": 0,
+                                    "x": 0.95,
+                                    "y": 0.95
+                                },
+                                {
+                                    "duration": 100
+                                }
+                            ]
+                        },
+                        {
+                            "name": "bone_center_flare",
+                            "scaleFrame": [
+                                {
+                                    "duration": 100,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 100,
+                                    "tweenEasing": 0,
+                                    "x": 1.55,
+                                    "y": 1.55
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "cloud_left",
+                            "colorFrame": [
+                                {
+                                    "duration": 51,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 49,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 73
+                                    }
+                                },
+                                {
+                                    "duration": 51,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 49,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 88
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cloud_right",
+                            "colorFrame": [
+                                {
+                                    "duration": 50,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 51,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 83
+                                    }
+                                },
+                                {
+                                    "duration": 49,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 50,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 67
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "center_flare",
+                            "colorFrame": [
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 48,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 62
+                                    }
+                                },
+                                {
+                                    "duration": 50,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 50,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 48
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "newAnimation"
+                }
+            ]
+        }
+    ]
+}

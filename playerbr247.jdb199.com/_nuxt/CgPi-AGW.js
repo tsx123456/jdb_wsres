@@ -1,0 +1,1 @@
+import{o as t,c as a,b as s,_ as c,m as n,e as p}from"./ZrFM1Wk-.js";import{e as r}from"./BniQt5PD.js";const _={id:"error-wrapper"};function d(e,l,i,u,f,$){const o=r;return t(),a("div",_,[s(o,{error:e.getGlobalError},null,8,["error"])])}const m={components:{error:r},computed:{...n(p,["getGlobalError"])}},g=c(m,[["render",d],["__scopeId","data-v-2a9621bc"]]);export{g as default};

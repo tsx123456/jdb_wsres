@@ -1,0 +1,1 @@
+import{b as t}from"./C6Arl43v.js";import{o,c as r,b as a,cu as l}from"./ZrFM1Wk-.js";import"./BzkKm9gy.js";import"./BZ1elyPP.js";import"./B04CeFCV.js";import"./B1U6rftp.js";const i={__name:"default",props:{record:{type:Object,default:()=>({})}},setup(e){return(p,u)=>(o(),r("span",null,[a(l(t),{value:e.record.totalOdd},null,8,["value"])]))}};export{i as default};

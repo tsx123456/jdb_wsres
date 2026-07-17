@@ -1,0 +1,1 @@
+const l={freeSpinBonus:null,extendPlayerWin:null,multiplierItems:null},n=0,o=13,e=["#514541","#9020A5"],t={extendI18n:l,wildSymbol:n,symbolAmount:o,backgroundColor:e};export{e as backgroundColor,t as default,l as extendI18n,o as symbolAmount,n as wildSymbol};

@@ -1,0 +1,1 @@
+const l=[182,140],n={multiplier:null,freeSpinBonus:null},o=0,s=11,e=["#F9E3A4","#5E1200"],t={},i={size:l,extendI18n:n,wildSymbol:o,symbolAmount:s,backgroundColor:e,filterFunctions:t};export{e as backgroundColor,i as default,n as extendI18n,t as filterFunctions,l as size,s as symbolAmount,o as wildSymbol};

@@ -1,0 +1,1 @@
+import{o as e,c as t,_ as o,r as s}from"./ZrFM1Wk-.js";const a={class:"container"};function c(n,i,_,p,d,f){return e(),t("div",a)}const r={created(){s("/histories")}},m=o(r,[["render",c]]);export{m as default};

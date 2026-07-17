@@ -1,0 +1,16 @@
+{
+  "file": "batch2_0.png",
+  "frames": { 
+    "Free_MSG2_BG_png": {"x":1,"y":588,"w":970,"h":167},
+    "Free_MSG_Board_png": {"x":521,"y":757,"w":478,"h":61},
+    "Free_MSG_tw_png": {"x":521,"y":820,"w":287,"h":36,"offX":2,"offY":4,"sourceW":956,"sourceH":43},
+    "Free_Reel_png": {"x":1,"y":1,"w":944,"h":585,"offX":28,"offY":34,"sourceW":1000,"sourceH":650},
+    "Free_Round_Board_png": {"x":1,"y":757,"w":518,"h":75,"offX":11,"offY":2,"sourceW":540,"sourceH":80}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1000x857",
+    "smartupdate": "$TexturePacker:SmartUpdate:151c6e9622c62802df797aad9d631f58:7fbb95a7bcfb02895196519bb5861cd3:3341e86e8baadf0bfba277b1c449324e$"
+  }
+}

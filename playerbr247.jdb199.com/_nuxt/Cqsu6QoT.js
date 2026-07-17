@@ -1,0 +1,1 @@
+import{_ as t,P as e,r as s}from"./ZrFM1Wk-.js";function r(o,a,p,n,_,c){return null}const i={created(){(this._.provides[e]||this.$route).params.type?s("/histories/"+(this._.provides[e]||this.$route).params.view+"/"+(this._.provides[e]||this.$route).params.type+"/list"):s("/histories")}},h=t(i,[["render",r]]);export{h as default};

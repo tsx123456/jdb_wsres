@@ -1,0 +1,13 @@
+{
+  "file": "game1_0.png",
+  "frames": { 
+    "Base_LineRect_Symbol1_png": {"x":1651,"y":1,"w":185,"h":169},
+    "BigWin_Mask_png": {"x":1,"y":1,"w":1648,"h":30}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1837x171",
+    "smartupdate": "$TexturePacker:SmartUpdate:5200c791f8b32a02a41255cd58275dd3:ba8520f0607ac4a888be894fcc7ac783:bde43c070866bfcd3dc609cb6291ce3c$"
+  }
+}

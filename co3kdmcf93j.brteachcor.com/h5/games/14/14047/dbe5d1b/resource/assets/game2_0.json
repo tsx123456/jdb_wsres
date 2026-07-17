@@ -1,0 +1,14 @@
+{
+  "file": "game2_0.png",
+  "frames": { 
+    "Free_MSG_Board_png": {"x":780,"y":800,"w":478,"h":61},
+    "Free_Reel_png": {"x":1,"y":1,"w":1358,"h":797,"offX":0,"offY":27,"sourceW":1358,"sourceH":856},
+    "TS_FX02_png": {"x":1,"y":800,"w":777,"h":799,"offX":423,"offY":73,"sourceW":1648,"sourceH":927}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1360x1600",
+    "smartupdate": "$TexturePacker:SmartUpdate:c44d56a89178ad0524edb1ad841fa0bf:13410313b5b5e4d00a9f9666da5949fd:8ca81048b6006f8df65c2c1b9f5b2e10$"
+  }
+}

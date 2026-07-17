@@ -1,0 +1,7 @@
+{"file":"game1_common.png","frames":{
+"GP_Base_ReelLight_jpg":{"x":1047,"y":1375,"w":150,"h":127,"offX":0,"offY":0,"sourceW":150,"sourceH":127},
+"GP_Base_SymbolBG_png":{"x":1047,"y":1233,"w":182,"h":140,"offX":0,"offY":0,"sourceW":182,"sourceH":140},
+"GP_Game_1_Background_jpg":{"x":0,"y":0,"w":1648,"h":927,"offX":0,"offY":0,"sourceW":1648,"sourceH":927},
+"GP_Item_01_light_png":{"x":1047,"y":929,"w":356,"h":302,"offX":9,"offY":11,"sourceW":376,"sourceH":320},
+"GP_Item_01_png":{"x":1231,"y":1233,"w":70,"h":313,"offX":1,"offY":0,"sourceW":71,"sourceH":317},
+"UI_Base_Reel_01_png":{"x":0,"y":929,"w":1045,"h":618,"offX":26,"offY":25,"sourceW":1090,"sourceH":675}}}

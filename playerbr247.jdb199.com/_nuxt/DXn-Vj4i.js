@@ -1,0 +1,1 @@
+const e=[185,169],a=[["0","0","0"]],s={reSpinFlag:null},n=["#C5D2D0","#C5D2D0"],t=[{fnName:"replaceReSpinSymbol"}],r={size:e,matrix:a,extendI18n:s,backgroundColor:n,baseFilterRequests:t};export{n as backgroundColor,t as baseFilterRequests,r as default,s as extendI18n,a as matrix,e as size};

@@ -1,0 +1,11 @@
+{"file":"UI_BTN_01_FNT.png","frames":{
+"3":{"x":0,"y":53,"w":35,"h":51,"offX":1,"offY":0,"sourceW":36,"sourceH":51},
+"4":{"x":37,"y":106,"w":34,"h":49,"offX":1,"offY":1,"sourceW":36,"sourceH":51},
+"5":{"x":74,"y":53,"w":35,"h":50,"offX":1,"offY":1,"sourceW":36,"sourceH":51},
+"6":{"x":37,"y":53,"w":35,"h":51,"offX":0,"offY":0,"sourceW":36,"sourceH":51},
+"7":{"x":0,"y":106,"w":35,"h":49,"offX":0,"offY":1,"sourceW":36,"sourceH":51},
+"8":{"x":37,"y":0,"w":35,"h":51,"offX":0,"offY":0,"sourceW":36,"sourceH":51},
+"9":{"x":74,"y":0,"w":35,"h":51,"offX":1,"offY":0,"sourceW":36,"sourceH":51},
+"0":{"x":0,"y":0,"w":35,"h":51,"offX":1,"offY":0,"sourceW":36,"sourceH":51},
+"1":{"x":0,"y":157,"w":25,"h":50,"offX":4,"offY":0,"sourceW":36,"sourceH":51},
+"2":{"x":74,"y":105,"w":35,"h":50,"offX":0,"offY":0,"sourceW":36,"sourceH":51}}}

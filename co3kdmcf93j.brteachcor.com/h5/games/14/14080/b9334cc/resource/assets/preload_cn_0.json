@@ -1,0 +1,14 @@
+{
+  "file": "preload_cn_0.png",
+  "frames": { 
+    "landscape_cn_png": {"x":1,"y":696,"w":487,"h":591,"offX":221,"offY":513,"sourceW":900,"sourceH":1600},
+    "Loading_BTN_cn_png": {"x":490,"y":696,"w":84,"h":48,"offX":183,"offY":38,"sourceW":450,"sourceH":124},
+    "Loading_cn_png": {"x":1,"y":1,"w":1600,"h":693,"offX":0,"offY":0,"sourceW":1600,"sourceH":900}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1602x1288",
+    "smartupdate": "$TexturePacker:SmartUpdate:d51ce48efda15119df235c2ee48d8fad:3f675cbda1bed5409f261a04ce2a483d:54a29235d9349047e96ece0b2b1556bd$"
+  }
+}

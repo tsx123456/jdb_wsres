@@ -1,0 +1,1 @@
+const e=[185,169],s={bonusViewWin:null,freeSpinBonus:null,bonusViewTitle:null},n=["#1D7473","#83000B"],o=[{fnName:"setCZBackgroundColor",params:"#641463"}],a={size:e,extendI18n:s,backgroundColor:n,baseFilterRequests:o};export{n as backgroundColor,o as baseFilterRequests,a as default,s as extendI18n,e as size};

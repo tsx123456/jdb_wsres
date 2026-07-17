@@ -1,0 +1,1 @@
+const l=[185,169],n={multiplier:null,freeSpinBonus:null,extendPlayerWin:null,smashingWildDisplay:null},e=["#D8C8A7","#DBDCD2"],s={size:l,extendI18n:n,backgroundColor:e};export{e as backgroundColor,s as default,n as extendI18n,l as size};

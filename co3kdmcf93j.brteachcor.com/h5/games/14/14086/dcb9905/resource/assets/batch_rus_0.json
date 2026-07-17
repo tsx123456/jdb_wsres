@@ -1,0 +1,29 @@
+{
+  "file": "batch_rus_0.png",
+  "frames": { 
+    "Base_Reel_Ways_rus_png": {"x":855,"y":143,"w":120,"h":36,"offX":248,"offY":23,"sourceW":372,"sourceH":76},
+    "BigWin_MSG01_rus_png": {"x":1,"y":189,"w":599,"h":273,"offX":101,"offY":24,"sourceW":800,"sourceH":320},
+    "BigWin_MSG02_rus_png": {"x":1,"y":703,"w":451,"h":237,"offX":166,"offY":59,"sourceW":800,"sourceH":320},
+    "BigWin_MSG03_rus_png": {"x":1,"y":464,"w":473,"h":237,"offX":175,"offY":58,"sourceW":800,"sourceH":320},
+    "TS_MSG01_rus_png": {"x":602,"y":194,"w":401,"h":194,"offX":51,"offY":8,"sourceW":510,"sourceH":202},
+    "TS_MSG02_rus_png": {"x":476,"y":549,"w":511,"h":107,"offX":4,"offY":8,"sourceW":518,"sourceH":120},
+    "TS_MSG03_rus_png": {"x":476,"y":464,"w":513,"h":83,"offX":19,"offY":19,"sourceW":550,"sourceH":120},
+    "TS_MSG04_rus_png": {"x":718,"y":1,"w":273,"h":52,"offX":14,"offY":15,"sourceW":300,"sourceH":80},
+    "TS_MSG06_rus_png": {"x":476,"y":658,"w":509,"h":104,"offX":5,"offY":9,"sourceW":518,"sourceH":120},
+    "TS_MSG07_rus_png": {"x":1,"y":1,"w":715,"h":86,"offX":3,"offY":8,"sourceW":720,"sourceH":100},
+    "TS_MSG08_rus_png": {"x":454,"y":764,"w":545,"h":120,"offX":89,"offY":0,"sourceW":720,"sourceH":120},
+    "TS_MSG09_rus_png": {"x":718,"y":55,"w":222,"h":46,"offX":9,"offY":4,"sourceW":240,"sourceH":50},
+    "TS_MSG10_rus_png": {"x":643,"y":103,"w":210,"h":45,"offX":15,"offY":5,"sourceW":240,"sourceH":50},
+    "TS_MSG11_rus_png": {"x":454,"y":886,"w":530,"h":81,"offX":95,"offY":5,"sourceW":720,"sourceH":90},
+    "TS_MSG12_rus_png": {"x":643,"y":150,"w":197,"h":42,"offX":12,"offY":0,"sourceW":220,"sourceH":42},
+    "TS_MSG13_rus_png": {"x":602,"y":390,"w":197,"h":42,"offX":12,"offY":0,"sourceW":220,"sourceH":42},
+    "TS_MSG14_rus_png": {"x":1,"y":89,"w":640,"h":98,"offX":71,"offY":9,"sourceW":780,"sourceH":114},
+    "UI_Win_rus_png": {"x":855,"y":103,"w":135,"h":38,"offX":8,"offY":12,"sourceW":150,"sourceH":71}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1004x968",
+    "smartupdate": "$TexturePacker:SmartUpdate:32409489c485635335a4442a1515405e:8c81b3244f673f9d565147e0c19e485b:36ea0dcd78bd794a2b786e54b0418f29$"
+  }
+}

@@ -1,0 +1,1 @@
+import{u as o}from"./game-i18n-CGamsCT1.js";const n=()=>{const{t:c,locale:l}=o({useScope:"global"}),e=o({useScope:"local",fallbackLocale:"en",inheritLocale:!1}),a=e.availableLocales.includes(l.value)?l.value:"en";return e.locale.value=a,{t:e.t,globalT:c,locale:l,helpLocale:a}};export{n as u};

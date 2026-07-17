@@ -1,0 +1,30 @@
+{
+  "file": "batch_pt_0.png",
+  "frames": { 
+    "Base_Reel_Ways_pt_png": {"x":1744,"y":141,"w":99,"h":36,"offX":250,"offY":24,"sourceW":372,"sourceH":76},
+    "BigWin_MSG01_pt_png": {"x":1258,"y":1,"w":484,"h":240,"offX":159,"offY":62,"sourceW":800,"sourceH":320},
+    "BigWin_MSG02_pt_png": {"x":1558,"y":243,"w":368,"h":239,"offX":217,"offY":63,"sourceW":800,"sourceH":320},
+    "BigWin_MSG03_pt_png": {"x":1158,"y":243,"w":398,"h":240,"offX":202,"offY":62,"sourceW":800,"sourceH":320},
+    "TS_MSG01_pt_png": {"x":705,"y":177,"w":451,"h":202,"offX":35,"offY":0,"sourceW":510,"sourceH":202},
+    "TS_MSG02_pt_png": {"x":538,"y":381,"w":347,"h":100,"offX":86,"offY":10,"sourceW":518,"sourceH":120},
+    "TS_MSG03_pt_png": {"x":709,"y":1,"w":547,"h":91,"offX":2,"offY":17,"sourceW":550,"sourceH":120},
+    "TS_MSG04_pt_png": {"x":887,"y":381,"w":238,"h":56,"offX":32,"offY":13,"sourceW":300,"sourceH":80},
+    "TS_MSG05_pt_png": {"x":1,"y":297,"w":535,"h":89,"offX":12,"offY":0,"sourceW":560,"sourceH":90},
+    "TS_MSG06_pt_png": {"x":1,"y":388,"w":504,"h":93,"offX":8,"offY":17,"sourceW":518,"sourceH":120},
+    "TS_MSG07_pt_png": {"x":1,"y":116,"w":702,"h":62,"offX":10,"offY":22,"sourceW":720,"sourceH":100},
+    "TS_MSG08_pt_png": {"x":1,"y":180,"w":627,"h":115,"offX":47,"offY":4,"sourceW":720,"sourceH":120},
+    "TS_MSG09_pt_png": {"x":887,"y":439,"w":235,"h":40,"offX":3,"offY":10,"sourceW":240,"sourceH":50},
+    "TS_MSG10_pt_png": {"x":1744,"y":1,"w":216,"h":50,"offX":13,"offY":0,"sourceW":240,"sourceH":50},
+    "TS_MSG11_pt_png": {"x":709,"y":94,"w":492,"h":81,"offX":114,"offY":5,"sourceW":720,"sourceH":90},
+    "TS_MSG12_pt_png": {"x":1744,"y":53,"w":198,"h":42,"offX":12,"offY":0,"sourceW":220,"sourceH":42},
+    "TS_MSG13_pt_png": {"x":1744,"y":97,"w":198,"h":42,"offX":12,"offY":0,"sourceW":220,"sourceH":42},
+    "TS_MSG14_pt_png": {"x":1,"y":1,"w":706,"h":113,"offX":38,"offY":1,"sourceW":780,"sourceH":114},
+    "UI_Win_pt_png": {"x":538,"y":297,"w":79,"h":36,"offX":1,"offY":14,"sourceW":82,"sourceH":71}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1961x484",
+    "smartupdate": "$TexturePacker:SmartUpdate:b7bd3d046a289a6185275af7ac37f43f:6890afa592cafdaa6edd1dbe7e07bd9b:dc80d12e86388016ca82095c80a2ca2a$"
+  }
+}

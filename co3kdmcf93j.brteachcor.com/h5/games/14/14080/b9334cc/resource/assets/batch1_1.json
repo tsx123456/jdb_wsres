@@ -1,0 +1,14 @@
+{
+  "file": "batch1_1.png",
+  "frames": { 
+    "Confirm_item_01.png32_png": {"x":1,"y":235,"w":137,"h":128},
+    "UI_Menu_Board.png32_png": {"x":211,"y":1,"w":20,"h":227},
+    "UI_Menu_Board_01.png32_png": {"x":1,"y":1,"w":208,"h":232}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "232x364",
+    "smartupdate": "$TexturePacker:SmartUpdate:e847ad709e0ff4dfacebb96041659477:beaa76d47757e65edcdf2af576520944:eefc3f4c069d63d1e95ec39abd422679$"
+  }
+}

@@ -1,0 +1,1 @@
+import{B as t}from"./DkDCIgxk.js";import{o,g as r}from"./CSvvp-CP.js";import"./CtKw1UoZ.js";import"./1qFTudpN.js";import"./wZG3igFi.js";import"./Bi7WpWSs.js";import"./BTqpWXIu.js";import"./D5iIIceY.js";import"./azG1I3ds.js";const B=Object.assign({name:"SlotResultList",scrollToTop:!0},{__name:"RecordListSlotList",setup(e){return(s,i)=>(o(),r(t))}});export{B as default};

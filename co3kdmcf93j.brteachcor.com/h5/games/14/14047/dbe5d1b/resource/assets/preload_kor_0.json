@@ -1,0 +1,13 @@
+{
+  "file": "preload_kor_0.png",
+  "frames": { 
+    "Loading_BTN_kor_png": {"x":1,"y":725,"w":87,"h":50,"offX":181,"offY":39,"sourceW":450,"sourceH":124},
+    "Loading_kor_png": {"x":1,"y":1,"w":891,"h":722,"offX":206,"offY":0,"sourceW":1318,"sourceH":741}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "893x776",
+    "smartupdate": "$TexturePacker:SmartUpdate:2feb816a1a27a13b120fcc32909a75a4:87210703dc0d3681b58f16e93664f8ea:80348834e639d2e4a8c74400489564cc$"
+  }
+}

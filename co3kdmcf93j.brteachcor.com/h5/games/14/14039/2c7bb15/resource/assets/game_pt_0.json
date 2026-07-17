@@ -1,0 +1,23 @@
+{
+  "file": "game_pt_0.png",
+  "frames": { 
+    "BigWin_MSG01_pt_png": {"x":1,"y":920,"w":1611,"h":210,"offX":153,"offY":210,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_FX_pt_png": {"x":1,"y":1,"w":1920,"h":483,"offX":0,"offY":22,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_pt_png": {"x":1,"y":699,"w":1355,"h":211,"offX":286,"offY":210,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_pt_png": {"x":1,"y":486,"w":1417,"h":211,"offX":252,"offY":210,"sourceW":1920,"sourceH":630},
+    "Free_MSG01_pt_png": {"x":1614,"y":961,"w":212,"h":33,"offX":0,"offY":7,"sourceW":213,"sourceH":44},
+    "Free_MSG_pt_png": {"x":1614,"y":920,"w":315,"h":39,"offX":0,"offY":0,"sourceW":335,"sourceH":40},
+    "HoldAndSpin_MSG01_pt_png": {"x":1614,"y":1031,"w":137,"h":33,"offX":5,"offY":0,"sourceW":150,"sourceH":33},
+    "HoldAndSpin_MSG02_pt_png": {"x":1614,"y":996,"w":171,"h":33,"offX":1,"offY":1,"sourceW":173,"sourceH":34},
+    "TS_MSG01_pt_png": {"x":840,"y":1132,"w":721,"h":469,"offX":55,"offY":5,"sourceW":968,"sourceH":475},
+    "TS_MSG02_pt_png": {"x":1,"y":1132,"w":837,"h":434,"offX":13,"offY":2,"sourceW":885,"sourceH":436},
+    "TS_MSG03_pt_png": {"x":1420,"y":486,"w":602,"h":432,"offX":1,"offY":0,"sourceW":605,"sourceH":432},
+    "TS_MSG04_pt_png": {"x":1,"y":1568,"w":689,"h":102,"offX":14,"offY":7,"sourceW":710,"sourceH":111}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "2023x1671",
+    "smartupdate": "$TexturePacker:SmartUpdate:2fcbd4069b0f278a3cf4c9ad1d82e694:98ac487938e0f210599772505b87838e:38af5635d2d67e6eb0ddb1511ad50747$"
+  }
+}

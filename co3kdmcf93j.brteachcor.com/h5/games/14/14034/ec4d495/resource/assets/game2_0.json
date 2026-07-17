@@ -1,0 +1,19 @@
+{
+  "file": "game2_0.png",
+  "frames": { 
+    "Bonus_BTN_01_png": {"x":842,"y":468,"w":183,"h":338,"offX":403,"offY":30,"sourceW":990,"sourceH":990},
+    "Bonus_BTN_02_png": {"x":1065,"y":1,"w":166,"h":426,"offX":412,"offY":66,"sourceW":990,"sourceH":990},
+    "Bonus_FX_01_png": {"x":842,"y":1,"w":221,"h":465,"offX":385,"offY":47,"sourceW":990,"sourceH":990},
+    "Bonus_FX_03_png": {"x":1,"y":842,"w":838,"h":839,"offX":97,"offY":96,"sourceW":990,"sourceH":990},
+    "Bonus_FX_04_png": {"x":1,"y":1,"w":839,"h":839,"offX":56,"offY":96,"sourceW":990,"sourceH":990},
+    "Bonus_FX_06_png": {"x":841,"y":842,"w":838,"h":839,"offX":97,"offY":96,"sourceW":990,"sourceH":990},
+    "Bonus_Item_02_png": {"x":1233,"y":1,"w":250,"h":405,"offX":370,"offY":1,"sourceW":990,"sourceH":990},
+    "Bonus_Item_04_png": {"x":1027,"y":468,"w":310,"h":310,"offX":340,"offY":340,"sourceW":990,"sourceH":990}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1680x1682",
+    "smartupdate": "$TexturePacker:SmartUpdate:2b1f51a9a8d99db2b3e415ca61b2403e:180f42474613e9d4ab8d59d0994336fd:8ca81048b6006f8df65c2c1b9f5b2e10$"
+  }
+}

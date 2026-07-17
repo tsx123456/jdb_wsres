@@ -1,0 +1,1 @@
+const l=3,e=[185,169],n=3,o={luckyDrawOre:null,wildMultiplier:null},r=["#0f1625","#0f1625"],s=[{fnName:"orientAnimalGetRespinLine"}],a={row:3,size:e,column:n,extendI18n:o,backgroundColor:r,preProcRequests:s};export{r as backgroundColor,n as column,a as default,o as extendI18n,s as preProcRequests,l as row,e as size};

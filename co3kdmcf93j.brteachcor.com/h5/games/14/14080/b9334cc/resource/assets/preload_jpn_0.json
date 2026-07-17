@@ -1,0 +1,14 @@
+{
+  "file": "preload_jpn_0.png",
+  "frames": { 
+    "landscape_jpn_png": {"x":1,"y":699,"w":769,"h":582,"offX":65,"offY":521,"sourceW":900,"sourceH":1600},
+    "Loading_BTN_jpn_png": {"x":772,"y":699,"w":177,"h":49,"offX":135,"offY":37,"sourceW":450,"sourceH":124},
+    "Loading_jpn_png": {"x":1,"y":1,"w":1600,"h":696,"offX":0,"offY":0,"sourceW":1600,"sourceH":900}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1602x1282",
+    "smartupdate": "$TexturePacker:SmartUpdate:d5be116272ee2d01f880009b9b051374:2532b02aec62597e372b736f5187d846:349d3161e9bd32679586834e02f66426$"
+  }
+}

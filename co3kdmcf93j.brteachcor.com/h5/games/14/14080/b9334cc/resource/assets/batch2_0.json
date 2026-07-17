@@ -1,0 +1,12 @@
+{
+  "file": "batch2_0.jpg",
+  "frames": { 
+    "Bonus_BG_jpg": {"x":1,"y":1,"w":1700,"h":1700}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1702x1702",
+    "smartupdate": "$TexturePacker:SmartUpdate:135710b43d2bd89e93d95aa8eadf5348:069551b8e541ec18fd5a756c2066fee4:82595fef67f0bff81439aa0172a92fba$"
+  }
+}

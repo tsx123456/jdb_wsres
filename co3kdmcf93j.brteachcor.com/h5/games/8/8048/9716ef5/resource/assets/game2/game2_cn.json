@@ -1,0 +1,14 @@
+{"file":"game2_cn.png","frames":{
+"GP_LD_Item05_cn_png":{"x":1779,"y":0,"w":127,"h":95,"offX":2,"offY":0,"sourceW":131,"sourceH":95},
+"GP_LD_Item06_cn_png":{"x":1908,"y":0,"w":129,"h":92,"offX":1,"offY":0,"sourceW":131,"sourceH":95},
+"GP_LD_Word01_cn_png":{"x":1491,"y":411,"w":393,"h":82,"offX":252,"offY":36,"sourceW":896,"sourceH":142},
+"GP_LD_Word02_cn_png":{"x":618,"y":519,"w":617,"h":102,"offX":140,"offY":36,"sourceW":896,"sourceH":142},
+"GP_LD_Word03_cn_png":{"x":0,"y":506,"w":616,"h":103,"offX":140,"offY":35,"sourceW":896,"sourceH":142},
+"GP_LD_Word04_cn_png":{"x":0,"y":401,"w":794,"h":103,"offX":51,"offY":35,"sourceW":896,"sourceH":142},
+"GP_TS_Word06_cn_png":{"x":1779,"y":132,"w":167,"h":33,"offX":0,"offY":0,"sourceW":167,"sourceH":33},
+"GP_TS_Word07_cn_png":{"x":1779,"y":97,"w":167,"h":33,"offX":0,"offY":0,"sourceW":167,"sourceH":33},
+"UI_Free_Msg_cn_png":{"x":636,"y":365,"w":285,"h":34,"offX":3,"offY":6,"sourceW":956,"sourceH":43},
+"UI_TS_Word01_cn_png":{"x":636,"y":0,"w":689,"h":363,"offX":201,"offY":166,"sourceW":1090,"sourceH":675},
+"UI_TS_Word02_cn_png":{"x":796,"y":411,"w":693,"h":106,"offX":202,"offY":279,"sourceW":1090,"sourceH":675},
+"UI_TS_Word03_cn_png":{"x":1327,"y":0,"w":450,"h":409,"offX":325,"offY":135,"sourceW":1090,"sourceH":675},
+"UI_TS_Word04_cn_png":{"x":0,"y":0,"w":634,"h":399,"offX":234,"offY":140,"sourceW":1090,"sourceH":675}}}

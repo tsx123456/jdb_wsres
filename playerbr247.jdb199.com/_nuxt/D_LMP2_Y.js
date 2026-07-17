@@ -1,0 +1,1 @@
+const e=[185,169],s={freeSpinBonus:null},n=["#700233","#4B1C0F"],o=[{fnName:"turnGoldSymbol"}],r={size:e,extendI18n:s,backgroundColor:n,freeFilterRequests:o};export{n as backgroundColor,r as default,s as extendI18n,o as freeFilterRequests,e as size};

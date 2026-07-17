@@ -1,0 +1,23 @@
+{
+  "file": "batch2_0.png",
+  "frames": { 
+    "Bonus_BG2_png": {"x":1886,"y":1,"w":70,"h":1309,"offX":0,"offY":0,"sourceW":70,"sourceH":1600},
+    "Bonus_Item1_png": {"x":964,"y":1,"w":920,"h":457,"offX":40,"offY":21,"sourceW":1000,"sourceH":500},
+    "Bonus_Item2_png": {"x":1,"y":554,"w":855,"h":281,"offX":71,"offY":111,"sourceW":1000,"sourceH":500},
+    "Bonus_Item3_png": {"x":1764,"y":460,"w":89,"h":363,"offX":19,"offY":0,"sourceW":108,"sourceH":363},
+    "Bonus_Item4_png": {"x":1,"y":872,"w":794,"h":396,"offX":3,"offY":0,"sourceW":798,"sourceH":410},
+    "Bonus_Item5_png": {"x":481,"y":1312,"w":778,"h":27},
+    "Bonus_Item6_png": {"x":964,"y":460,"w":798,"h":410},
+    "Bonus_Item7_png": {"x":1261,"y":872,"w":409,"h":111},
+    "Free_BG_Item1_png": {"x":797,"y":985,"w":1014,"h":149,"offX":6,"offY":0,"sourceW":1020,"sourceH":149},
+    "Free_MSG_Board_png": {"x":1,"y":1312,"w":478,"h":61},
+    "Free_Reel_png": {"x":1,"y":1,"w":961,"h":551,"offX":17,"offY":74,"sourceW":998,"sourceH":625},
+    "Free_Reel2_png": {"x":797,"y":1136,"w":988,"h":117}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1957x1374",
+    "smartupdate": "$TexturePacker:SmartUpdate:f609a65c95f0db9d653de7c414250bfc:a77e40cce3d472694ded54e16a38fa67:3341e86e8baadf0bfba277b1c449324e$"
+  }
+}

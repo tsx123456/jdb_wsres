@@ -1,0 +1,1 @@
+import{a as r}from"./C6Arl43v.js";import{o,g as t,cu as a}from"./ZrFM1Wk-.js";import"./BzkKm9gy.js";import"./BZ1elyPP.js";import"./B04CeFCV.js";import"./B1U6rftp.js";const d={__name:"default",props:{record:{type:Object,default:()=>({})}},setup(e){return(l,p)=>(o(),t(a(r),{value:e.record.playerBet,negative:"","milli-dollar":""},null,8,["value"]))}};export{d as default};

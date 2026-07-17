@@ -1,0 +1,8 @@
+{"file":"image_th.png","frames":{
+"UI_TC_Word_th_png":{"x":0,"y":0,"w":814,"h":379,"offX":0,"offY":8,"sourceW":816,"sourceH":388},
+"UI_TS_Word01_th_png":{"x":0,"y":381,"w":483,"h":385,"offX":274,"offY":82,"sourceW":981,"sourceH":527},
+"UI_TS_Word02_th_png":{"x":816,"y":0,"w":694,"h":389,"offX":109,"offY":51,"sourceW":982,"sourceH":527},
+"UI_TS_Word03_th_png":{"x":1094,"y":391,"w":564,"h":97,"offX":206,"offY":194,"sourceW":981,"sourceH":527},
+"Free_Desc_WonCredits_th_png":{"x":485,"y":391,"w":607,"h":140,"offX":186,"offY":154,"sourceW":956,"sourceH":579},
+"multi_th_png":{"x":1512,"y":30,"w":117,"h":48,"offX":46,"offY":2,"sourceW":210,"sourceH":50},
+"UI_Free_Msg02_th_png":{"x":1512,"y":0,"w":213,"h":28,"offX":5,"offY":7,"sourceW":305,"sourceH":43}}}

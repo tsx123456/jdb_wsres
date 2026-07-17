@@ -1,0 +1,13 @@
+{
+  "file": "game1_0.png",
+  "frames": { 
+    "Base_Board_01_png": {"x":1278,"y":1,"w":65,"h":271,"offX":0,"offY":9,"sourceW":71,"sourceH":287},
+    "Base_Reel_png": {"x":1,"y":1,"w":1275,"h":786,"offX":43,"offY":32,"sourceW":1358,"sourceH":856}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1344x788",
+    "smartupdate": "$TexturePacker:SmartUpdate:16754e6c6594c05fd3e4b8a8ead488fe:f82005d6ce44dee0d84045e0d974c6d7:bde43c070866bfcd3dc609cb6291ce3c$"
+  }
+}

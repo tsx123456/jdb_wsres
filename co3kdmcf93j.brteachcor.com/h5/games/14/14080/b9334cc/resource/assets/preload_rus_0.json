@@ -1,0 +1,14 @@
+{
+  "file": "preload_rus_0.png",
+  "frames": { 
+    "landscape_rus_png": {"x":1,"y":827,"w":786,"h":640,"offX":66,"offY":526,"sourceW":900,"sourceH":1600},
+    "Loading_BTN_rus_png": {"x":789,"y":827,"w":191,"h":41,"offX":130,"offY":39,"sourceW":450,"sourceH":124},
+    "Loading_rus_png": {"x":1,"y":1,"w":1600,"h":824,"offX":0,"offY":0,"sourceW":1600,"sourceH":900}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1602x1468",
+    "smartupdate": "$TexturePacker:SmartUpdate:e90d277ba343bd57d0e8cb1e2b4671fc:259e67721a13c8ff8dba6f532437fb57:393239cc93beff39963d656c1f5e7cac$"
+  }
+}

@@ -1,0 +1,1 @@
+const o=[185,180],n={freeSpinBonus:null},s=0,l=13,e=["#F8E6B3","#F9E9BE"],a={size:o,extendI18n:n,wildSymbol:s,symbolAmount:l,backgroundColor:e};export{e as backgroundColor,a as default,n as extendI18n,o as size,l as symbolAmount,s as wildSymbol};

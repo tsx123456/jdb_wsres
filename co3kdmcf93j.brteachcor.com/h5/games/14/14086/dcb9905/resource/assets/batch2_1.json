@@ -1,0 +1,31 @@
+{
+  "file": "batch2_1.png",
+  "frames": { 
+    "Free_BG_Item_01_png": {"x":1,"y":1011,"w":918,"h":132,"offX":0,"offY":0,"sourceW":918,"sourceH":147},
+    "Free_FS_FB_Icon_png": {"x":1,"y":1451,"w":384,"h":90},
+    "Free_Reel_png": {"x":1,"y":1,"w":900,"h":1008,"offX":0,"offY":2,"sourceW":900,"sourceH":1010},
+    "JP_Grand_BG_png": {"x":357,"y":1298,"w":270,"h":131},
+    "JP_Icon_png": {"x":659,"y":1424,"w":160,"h":168},
+    "JP_Major_BG_png": {"x":387,"y":1431,"w":270,"h":131},
+    "JP_Marquee_0_png": {"x":1,"y":1543,"w":136,"h":48},
+    "JP_Marquee_1_png": {"x":821,"y":1424,"w":136,"h":47,"offX":0,"offY":0,"sourceW":136,"sourceH":48},
+    "JP_Marquee_2_png": {"x":139,"y":1543,"w":136,"h":47,"offX":0,"offY":0,"sourceW":136,"sourceH":48},
+    "JP_Marquee_BG_png": {"x":629,"y":1298,"w":54,"h":54},
+    "JP_Minor_BG_png": {"x":710,"y":1291,"w":270,"h":131},
+    "JP_UI_0_png": {"x":903,"y":1,"w":109,"h":46,"offX":1,"offY":0,"sourceW":110,"sourceH":46},
+    "JP_UI_1_png": {"x":821,"y":1473,"w":110,"h":46},
+    "JP_UI_2_png": {"x":821,"y":1521,"w":110,"h":46},
+    "JP_UI_bg_01_png": {"x":903,"y":49,"w":88,"h":88},
+    "JP_UI_bg_02_png": {"x":903,"y":139,"w":12,"h":63},
+    "JP_WinBoard_0_png": {"x":358,"y":1145,"w":350,"h":151,"offX":3,"offY":0,"sourceW":355,"sourceH":151},
+    "JP_WinBoard_1_png": {"x":1,"y":1145,"w":355,"h":151},
+    "JP_WinBoard_2_png": {"x":1,"y":1298,"w":354,"h":151,"offX":1,"offY":0,"sourceW":355,"sourceH":151},
+    "LD_Board_png": {"x":710,"y":1145,"w":236,"h":144}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1013x1593",
+    "smartupdate": "$TexturePacker:SmartUpdate:91795f5426480aac242a8988766ddecf:e386ea13808a6afbfc440dbaf3735035:eb455903bdea2703840887cdbbb487d7$"
+  }
+}

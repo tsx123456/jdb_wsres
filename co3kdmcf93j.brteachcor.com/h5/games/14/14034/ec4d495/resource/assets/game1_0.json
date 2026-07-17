@@ -1,0 +1,19 @@
+{
+  "file": "game1_0.png",
+  "frames": { 
+    "Base_Reel_png": {"x":1,"y":1209,"w":1110,"h":380,"offX":45,"offY":5,"sourceW":1200,"sourceH":390},
+    "Base_Reel_BG_png": {"x":949,"y":1,"w":984,"h":302},
+    "BigWin_Mask_png": {"x":1,"y":1591,"w":1648,"h":30},
+    "Bonus_Item_01_png": {"x":1728,"y":305,"w":160,"h":391,"offX":415,"offY":3,"sourceW":990,"sourceH":990},
+    "Bonus_Item_03_png": {"x":1113,"y":1106,"w":292,"h":292,"offX":349,"offY":349,"sourceW":990,"sourceH":990},
+    "Bonus_MSG_01_FX_png": {"x":1,"y":950,"w":896,"h":257,"offX":19,"offY":0,"sourceW":933,"sourceH":261},
+    "Bonus_Wheel_Item_01_png": {"x":1,"y":1,"w":946,"h":947,"offX":22,"offY":21,"sourceW":990,"sourceH":990},
+    "TS_FX02_png": {"x":949,"y":305,"w":777,"h":799,"offX":423,"offY":73,"sourceW":1648,"sourceH":927}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1934x1622",
+    "smartupdate": "$TexturePacker:SmartUpdate:b7435dfd632a309d84fe835aa24ff10e:b1db33da427fed31196fed1598d3b1b4:bde43c070866bfcd3dc609cb6291ce3c$"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "file": "batch2_1.png",
+  "frames": { 
+    "Free_Marquee_png": {"x":1,"y":692,"w":900,"h":93},
+    "Free_Reel_png": {"x":1,"y":1,"w":900,"h":689,"offX":0,"offY":11,"sourceW":900,"sourceH":700},
+    "JP_Grand_BG_png": {"x":903,"y":171,"w":270,"h":131},
+    "JP_Icon_png": {"x":903,"y":1,"w":160,"h":168},
+    "JP_Major_BG_png": {"x":903,"y":304,"w":270,"h":131},
+    "JP_Marquee_0_png": {"x":903,"y":570,"w":136,"h":48},
+    "JP_Marquee_1_png": {"x":903,"y":620,"w":136,"h":47,"offX":0,"offY":0,"sourceW":136,"sourceH":48},
+    "JP_Marquee_2_png": {"x":903,"y":669,"w":136,"h":47,"offX":0,"offY":0,"sourceW":136,"sourceH":48},
+    "JP_Marquee_BG_png": {"x":1066,"y":91,"w":54,"h":54},
+    "JP_Minor_BG_png": {"x":903,"y":437,"w":270,"h":131},
+    "JP_UI_0_png": {"x":1041,"y":666,"w":109,"h":46,"offX":1,"offY":0,"sourceW":110,"sourceH":46},
+    "JP_UI_1_png": {"x":1041,"y":570,"w":110,"h":46},
+    "JP_UI_2_png": {"x":1041,"y":618,"w":110,"h":46},
+    "JP_UI_bg_01_png": {"x":1066,"y":1,"w":88,"h":88},
+    "JP_UI_bg_02_png": {"x":1156,"y":1,"w":12,"h":63},
+    "JP_WinBoard_0_png": {"x":714,"y":787,"w":350,"h":151,"offX":3,"offY":0,"sourceW":355,"sourceH":151},
+    "JP_WinBoard_1_png": {"x":1,"y":787,"w":355,"h":151},
+    "JP_WinBoard_2_png": {"x":358,"y":787,"w":354,"h":151,"offX":1,"offY":0,"sourceW":355,"sourceH":151}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1174x939",
+    "smartupdate": "$TexturePacker:SmartUpdate:1968103cefb9c30f61dce80d26982008:cad7c1a70c6c54c93a319eea821acc8f:eb455903bdea2703840887cdbbb487d7$"
+  }
+}

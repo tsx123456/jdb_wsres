@@ -1,0 +1,40 @@
+{"mc":{
+	"symbol":{
+		"frameRate":24,
+		"labels":[
+			{"name":"@symbol","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"GP_M1_OpenSeame",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"GP_M2_OpenSeame",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"GP_M3_OpenSeame",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"GP_M4_OpenSeame",
+			"x":0,
+			"y":1
+			}
+			]
+}},
+	"res":{
+		"GP_M4_OpenSeame":{"x":92,"y":92,"w":90,"h":89},
+		"GP_M3_OpenSeame":{"x":0,"y":92,"w":90,"h":90},
+		"GP_M1_OpenSeame":{"x":92,"y":0,"w":90,"h":90},
+		"GP_M2_OpenSeame":{"x":0,"y":0,"w":90,"h":90}
+	}}

@@ -1,0 +1,1 @@
+const a=3,o=[185,169],n=5,e={multiplier:null},l=["#BF9F63","#6F5D3B"],s={row:3,size:o,column:n,extendI18n:e,backgroundColor:l};export{l as backgroundColor,n as column,s as default,e as extendI18n,a as row,o as size};

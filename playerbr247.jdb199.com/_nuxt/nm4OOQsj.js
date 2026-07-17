@@ -1,0 +1,1 @@
+const m=4,n=[182,140],o=5,e={freeSpinBonus:null},s=0,i="1",l=12,a=50,u=["#CCF0FF","#6EA8BE"],t={row:4,size:n,column:o,extendI18n:e,wildSymbol:s,winLineType:i,symbolAmount:l,winLineAmount:a,backgroundColor:u};export{u as backgroundColor,o as column,t as default,e as extendI18n,m as row,n as size,l as symbolAmount,s as wildSymbol,a as winLineAmount,i as winLineType};

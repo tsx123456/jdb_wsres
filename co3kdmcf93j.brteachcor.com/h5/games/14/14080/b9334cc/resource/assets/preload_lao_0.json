@@ -1,0 +1,14 @@
+{
+  "file": "preload_lao_0.png",
+  "frames": { 
+    "landscape_lao_png": {"x":1,"y":702,"w":668,"h":596,"offX":111,"offY":507,"sourceW":900,"sourceH":1600},
+    "Loading_BTN_lao_png": {"x":671,"y":702,"w":70,"h":54,"offX":189,"offY":34,"sourceW":450,"sourceH":124},
+    "Loading_lao_png": {"x":1,"y":1,"w":1600,"h":699,"offX":0,"offY":0,"sourceW":1600,"sourceH":900}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1602x1299",
+    "smartupdate": "$TexturePacker:SmartUpdate:be125b7c8615c6bad531409b6bcc4884:62b223aba52afbcd13f5bbd5e7c4a126:f50a29502f6ba1149698a2d70c593786$"
+  }
+}

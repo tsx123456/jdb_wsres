@@ -1,0 +1,12 @@
+{
+  "file": "batch2_0.jpg",
+  "frames": { 
+    "FreeSpinEnd_BG_jpg": {"x":1,"y":1,"w":1600,"h":1600}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1602x1602",
+    "smartupdate": "$TexturePacker:SmartUpdate:b4afeca80f5a0b50ef0b7877b5fb2a30:56bec576476225a0a42591a05b3001d3:82595fef67f0bff81439aa0172a92fba$"
+  }
+}

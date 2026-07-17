@@ -1,0 +1,1 @@
+const e="table",s="niuniu",o=0,l=13,t=["#f1e1a8","#430300"],a=[{fnName:"niuniuSorting"}],n={styleType:e,patternKey:s,wildSymbol:0,symbolAmount:13,backgroundColor:t,baseFilterRequests:a};export{t as backgroundColor,a as baseFilterRequests,n as default,s as patternKey,e as styleType,l as symbolAmount,o as wildSymbol};

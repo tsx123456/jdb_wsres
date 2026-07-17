@@ -1,0 +1,15 @@
+{
+  "file": "batch1_1.png",
+  "frames": { 
+    "Base_AutoSpin_Broad.png32_png": {"x":202,"y":1,"w":191,"h":190,"offX":7,"offY":8,"sourceW":206,"sourceH":206},
+    "Base_Spin_Broad.png32_png": {"x":1,"y":1,"w":199,"h":199,"offX":4,"offY":4,"sourceW":206,"sourceH":206},
+    "UI_ExtraBet_Board.png32_png": {"x":395,"y":1,"w":73,"h":74},
+    "UI_TurboPanel_bg.png32_png": {"x":395,"y":77,"w":39,"h":39}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "469x201",
+    "smartupdate": "$TexturePacker:SmartUpdate:364cd49757fb25c1a4361a7da93f9e3b:2d6d9b450488e2ea4ffc1163fe0a39a5:eefc3f4c069d63d1e95ec39abd422679$"
+  }
+}

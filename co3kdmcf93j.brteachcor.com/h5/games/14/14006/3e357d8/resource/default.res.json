@@ -1,0 +1,363 @@
+{
+	"groups": [
+		{
+			"keys": "UI_LoadingBar_v3_02_png,UI_LoadingBar_v3_01_png",
+			"name": "preloadCommon"
+		},
+		{
+			"keys": "GP_Loading_en_png,LoadingBar_03_en_png",
+			"name": "preload_en"
+		},
+		{
+			"keys": "GP_Loading_cn_png,UI_LoadingBar_v3_03_png",
+			"name": "preload_cn"
+		},
+		{
+			"keys": "GP_Loading_th_png,LoadingBar_03_en_png",
+			"name": "preload_th"
+		},
+		{
+			"keys": "GP_Loading_vn_png,LoadingBar_03_en_png",
+			"name": "preload_vn"
+		},
+		{
+			"keys": "GP_Loading_id_png,LoadingBar_03_en_png",
+			"name": "preload_id"
+		},
+		{
+			"keys": "BigWin_json,BigWin_png,GP_Base_SymbolAll_json,GP_Base_SymbolAll_png,IUN_WhiteMask_Edit_Bg_png,Number_LineWin_json,Number_LineWin_png,Number_PlayerWin_json,Number_PlayerWin_png,SS_Base_WW_json,SS_Base_WW_png,LineRect_json,LineRect_png,Base_Common_json,SS_Base_C1_Item_png,SS_Base_C1_Item_json,Line_43_50_json,Line_32_42_json,Line_17_31_json,Line_1_16_json,Free_Won_Credits_Number_png,Free_Won_Credits_Number_fnt,light03_png,JP_FS_loop_png,JP_FS_loop_json,JP_FS_in_png,JP_FS_in_json,JP_FNT_png,JP_FNT_fnt",
+			"name": "baseViewCommon"
+		},
+		{
+			"keys": "",
+			"name": "baseView_en"
+		},
+		{
+			"keys": "",
+			"name": "baseView_cn"
+		},
+		{
+			"keys": "",
+			"name": "baseView_th"
+		},
+		{
+			"keys": "",
+			"name": "baseView_vn"
+		},
+		{
+			"keys": "",
+			"name": "baseView_id"
+		},
+		{
+			"keys": "Free_Feature_Number_png,Free_Desc_Font_fnt,Free_Desc_Font_png,Free_Feature_Number_fnt,UI_Free_Num_png,UI_Free_Num_fnt,Free_BG_Desc_json",
+			"name": "freeViewCommon"
+		},
+		{
+			"keys": "Free_Desc_EN_json",
+			"name": "freeView_en"
+		},
+		{
+			"keys": "Free_Desc_CN_json",
+			"name": "freeView_cn"
+		},
+		{
+			"keys": "Free_Desc_TH_json",
+			"name": "freeView_th"
+		},
+		{
+			"keys": "Free_Desc_VN_json",
+			"name": "freeView_vn"
+		},
+		{
+			"keys": "",
+			"name": "freeView_id"
+		},
+		{
+			"keys": "LoadingBar_03_en_png,GP_Loading_en_fun_png",
+			"name": "preload_en_fun"
+		},
+		{
+			"keys": "",
+			"name": "baseView_en_fun"
+		},
+		{
+			"keys": "Free_Desc_EN_FUN_json",
+			"name": "freeView_en_fun"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/freeView/Free_Desc_Font.fnt",
+			"type": "font",
+			"name": "Free_Desc_Font_fnt"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_Font.png",
+			"type": "image",
+			"name": "Free_Desc_Font_png"
+		},
+		{
+			"url": "assets/freeView/Free_Feature_Number.fnt",
+			"type": "font",
+			"name": "Free_Feature_Number_fnt"
+		},
+		{
+			"url": "assets/freeView/Free_Feature_Number.png",
+			"type": "image",
+			"name": "Free_Feature_Number_png"
+		},
+		{
+			"url": "assets/freeView/Free_Won_Credits_Number.fnt",
+			"type": "font",
+			"name": "Free_Won_Credits_Number_fnt"
+		},
+		{
+			"url": "assets/freeView/Free_Won_Credits_Number.png",
+			"type": "image",
+			"name": "Free_Won_Credits_Number_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_cn.png",
+			"type": "image",
+			"name": "GP_Loading_cn_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_en.png",
+			"type": "image",
+			"name": "GP_Loading_en_png"
+		},
+		{
+			"url": "assets/baseView/BigWin.png",
+			"type": "image",
+			"name": "BigWin_png"
+		},
+		{
+			"url": "assets/baseView/GP_Base_SymbolAll.png",
+			"type": "image",
+			"name": "GP_Base_SymbolAll_png"
+		},
+		{
+			"url": "assets/baseView/IUN_WhiteMask_Edit_Bg.png",
+			"type": "image",
+			"name": "IUN_WhiteMask_Edit_Bg_png",
+			"scale9grid": "12,12,454,38"
+		},
+		{
+			"url": "assets/baseView/Number_LineWin.png",
+			"type": "image",
+			"name": "Number_LineWin_png"
+		},
+		{
+			"url": "assets/baseView/Number_PlayerWin.png",
+			"type": "image",
+			"name": "Number_PlayerWin_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_WW.png",
+			"type": "image",
+			"name": "SS_Base_WW_png"
+		},
+		{
+			"url": "assets/baseView/winLine/LineRect.png",
+			"type": "image",
+			"name": "LineRect_png"
+		},
+		{
+			"url": "assets/baseView/GP_Base_SymbolAll.json",
+			"type": "json",
+			"name": "GP_Base_SymbolAll_json"
+		},
+		{
+			"url": "assets/baseView/winLine/LineRect.json",
+			"type": "json",
+			"name": "LineRect_json"
+		},
+		{
+			"url": "assets/baseView/Number_PlayerWin.json",
+			"type": "json",
+			"name": "Number_PlayerWin_json"
+		},
+		{
+			"url": "assets/baseView/SS_Base_WW.json",
+			"type": "json",
+			"name": "SS_Base_WW_json"
+		},
+		{
+			"url": "assets/baseView/BigWin.json",
+			"type": "json",
+			"name": "BigWin_json"
+		},
+		{
+			"url": "assets/baseView/Number_LineWin.json",
+			"type": "json",
+			"name": "Number_LineWin_json"
+		},
+		{
+			"url": "assets/freeView/UI_Free_Num.fnt",
+			"type": "font",
+			"name": "UI_Free_Num_fnt"
+		},
+		{
+			"url": "assets/freeView/UI_Free_Num.png",
+			"type": "image",
+			"name": "UI_Free_Num_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_C1_Item.png",
+			"type": "image",
+			"name": "SS_Base_C1_Item_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_C1_Item.json",
+			"type": "json",
+			"name": "SS_Base_C1_Item_json"
+		},
+		{
+			"url": "assets/baseView/Base_Common.json",
+			"type": "sheet",
+			"name": "Base_Common_json",
+			"subkeys": "GP_Base_SymbolBG_png,JP_Light_01_png,JP_Light_02_png,UI_Base_Reel_png"
+		},
+		{
+			"url": "assets/freeView/Free_BG_Desc.json",
+			"type": "sheet",
+			"name": "Free_BG_Desc_json",
+			"subkeys": "Free_Desc_WonCredits_bg_png,Free_Desc_WonCredits_effect1_png,Free_Desc_WonCredits_effect2_png,GP_Free_SymbolBG_png,UI_Free_Reel_png,UI_TS_Board_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_CN.json",
+			"type": "sheet",
+			"name": "Free_Desc_CN_json",
+			"subkeys": "Free_Desc_WonCredits_cn_png,SS_Performe_cn_png,UI_Free_Msg_cn_png,UI_TS_Word01_cn_png,UI_TS_Word02_cn_png,UI_TS_Word03_cn_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_EN.json",
+			"type": "sheet",
+			"name": "Free_Desc_EN_json",
+			"subkeys": "Free_Desc_WonCredits_en_png,SS_Performe_en_png,UI_Free_Msg_en_png,UI_TS_Word01_en_png,UI_TS_Word02_en_png,UI_TS_Word03_en_png"
+		},
+		{
+			"url": "assets/baseView/winLine/Line_17_31.json",
+			"type": "sheet",
+			"name": "Line_17_31_json",
+			"subkeys": "17_png,18_png,19_png,20_png,21_png,22_png,23_png,24_png,25_png,26_png,27_png,28_png,29_png,30_png,31_png"
+		},
+		{
+			"url": "assets/baseView/winLine/Line_1_16.json",
+			"type": "sheet",
+			"name": "Line_1_16_json",
+			"subkeys": "10_png,11_png,12_png,13_png,14_png,15_png,16_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png"
+		},
+		{
+			"url": "assets/baseView/winLine/Line_32_42.json",
+			"type": "sheet",
+			"name": "Line_32_42_json",
+			"subkeys": "32_png,33_png,34_png,35_png,36_png,37_png,38_png,39_png,40_png,41_png,42_png"
+		},
+		{
+			"url": "assets/baseView/winLine/Line_43_50.json",
+			"type": "sheet",
+			"name": "Line_43_50_json",
+			"subkeys": "43_png,44_png,45_png,46_png,47_png,48_png,49_png,50_png,C1_Rect_png"
+		},
+		{
+			"url": "assets/preload/UI_LoadingBar_v3_01.png",
+			"type": "image",
+			"name": "UI_LoadingBar_v3_01_png"
+		},
+		{
+			"url": "assets/preload/UI_LoadingBar_v3_02.png",
+			"type": "image",
+			"name": "UI_LoadingBar_v3_02_png"
+		},
+		{
+			"url": "assets/preload/UI_LoadingBar_v3_03.png",
+			"type": "image",
+			"name": "UI_LoadingBar_v3_03_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_th.png",
+			"type": "image",
+			"name": "GP_Loading_th_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_TH.json",
+			"type": "sheet",
+			"name": "Free_Desc_TH_json",
+			"subkeys": "Free_Desc_WonCredits_th_png,SS_Performe_th_png,UI_Free_Msg_th_png,UI_TS_Word01_th_png,UI_TS_Word02_th_png,UI_TS_Word03_th_png"
+		},
+		{
+			"url": "assets/preload/LoadingBar_03_en.png",
+			"type": "image",
+			"name": "LoadingBar_03_en_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_vn.png",
+			"type": "image",
+			"name": "GP_Loading_vn_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_VN.json",
+			"type": "sheet",
+			"name": "Free_Desc_VN_json",
+			"subkeys": "Free_Desc_WonCredits_vn_png,SS_Performe_vn_png,UI_Free_Msg_vn_png,UI_TS_Word01_vn_png,UI_TS_Word02_vn_png,UI_TS_Word03_vn_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_id.png",
+			"type": "image",
+			"name": "GP_Loading_id_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_ID.json",
+			"type": "sheet",
+			"name": "Free_Desc_id_json",
+			"subkeys": "Free_Desc_WonCredits_id_png,SS_Performe_id_png,UI_Free_Msg_id_png,UI_TS_Word01_id_png,UI_TS_Word02_id_png,UI_TS_Word03_id_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FNT.fnt",
+			"type": "font",
+			"name": "JP_FNT_fnt"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FNT.png",
+			"type": "image",
+			"name": "JP_FNT_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_in.png",
+			"type": "image",
+			"name": "JP_FS_in_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_loop.png",
+			"type": "image",
+			"name": "JP_FS_loop_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/light03.png",
+			"type": "image",
+			"name": "light03_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_loop.json",
+			"type": "json",
+			"name": "JP_FS_loop_json"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_in.json",
+			"type": "json",
+			"name": "JP_FS_in_json"
+		},
+		{
+			"url": "assets/preload/GP_Loading_en_fun.png",
+			"type": "image",
+			"name": "GP_Loading_en_fun_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_EN_FUN.json",
+			"type": "sheet",
+			"name": "Free_Desc_EN_FUN_json",
+			"subkeys": "Free_Desc_WonCredits_en_fun_png,SS_Performe_en_fun_png,UI_Free_Msg_en_fun_png,UI_TS_Word01_en_fun_png,UI_TS_Word02_en_fun_png,UI_TS_Word03_en_fun_png"
+		}
+	]
+}

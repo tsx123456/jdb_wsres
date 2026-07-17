@@ -1,0 +1,15 @@
+{
+  "file": "game1_0.png",
+  "frames": { 
+    "Base_LineRect_png": {"x":1203,"y":249,"w":203,"h":187},
+    "Base_Reel_png": {"x":1,"y":1,"w":1200,"h":800},
+    "BigWin_Mask_png": {"x":1,"y":803,"w":1648,"h":30},
+    "TS_FX1_png": {"x":1203,"y":1,"w":635,"h":246,"offX":0,"offY":61,"sourceW":635,"sourceH":355}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1839x834",
+    "smartupdate": "$TexturePacker:SmartUpdate:3bb4c7d88101d2aeb3b37e837d33b951:c3cab1dd4ab6c502eb1a7420e31eebe3:bde43c070866bfcd3dc609cb6291ce3c$"
+  }
+}

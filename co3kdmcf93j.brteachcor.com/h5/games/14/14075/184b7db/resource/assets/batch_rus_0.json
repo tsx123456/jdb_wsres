@@ -1,0 +1,19 @@
+{
+  "file": "batch_rus_0.png",
+  "frames": { 
+    "Base_MSG_rus_png": {"x":711,"y":196,"w":648,"h":106,"offX":36,"offY":32,"sourceW":720,"sourceH":170},
+    "BigWin_MSG01_rus_png": {"x":1,"y":1,"w":708,"h":207,"offX":44,"offY":12,"sourceW":800,"sourceH":230},
+    "BigWin_MSG02_rus_png": {"x":711,"y":1,"w":707,"h":193,"offX":45,"offY":26,"sourceW":800,"sourceH":230},
+    "BigWin_MSG03_rus_png": {"x":1,"y":210,"w":708,"h":195,"offX":44,"offY":24,"sourceW":800,"sourceH":230},
+    "bonus_Msg_rus_png": {"x":711,"y":304,"w":605,"h":90,"offX":13,"offY":16,"sourceW":630,"sourceH":120},
+    "UI_Lines_rus_png": {"x":1318,"y":304,"w":157,"h":58,"offX":2,"offY":2,"sourceW":160,"sourceH":60},
+    "UI_Logo_rus_png": {"x":1420,"y":1,"w":416,"h":218,"offX":1,"offY":28,"sourceW":418,"sourceH":266},
+    "UI_Win_rus_png": {"x":1318,"y":364,"w":135,"h":38,"offX":8,"offY":12,"sourceW":150,"sourceH":71}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1837x406",
+    "smartupdate": "$TexturePacker:SmartUpdate:3c66137490fd215fdfe8a6ee6b40d5d9:2e16bf3b9edff95a8f8cbb3f17303007:36ea0dcd78bd794a2b786e54b0418f29$"
+  }
+}

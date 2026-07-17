@@ -1,0 +1,39 @@
+{
+  "web": {
+    "domains": [
+      "127.0.0.1:18071",
+      "127.0.0.1:18071",
+      "127.0.0.1:18071"
+    ]
+  },
+  "agent": {
+    "domains": [
+      "127.0.0.1:18071"
+    ]
+  },
+  "st": {
+    "domains": [
+      "127.0.0.1_18071_0",
+      "127.0.0.1_18071_0",
+      "127.0.0.1_18071_0"
+    ]
+  },
+  "ba": {
+    "domains": [
+      "127.0.0.1_18071_0",
+      "127.0.0.1_18071_0",
+      "127.0.0.1_18071_0"
+    ]
+  },
+  "envObj": {
+    "lineInfoFileName": "gcp247soam",
+    "report": "http://127.0.0.1:18085",
+    "gamePage": "http://127.0.0.1:18084/",
+    "aggregatorPage": "http://127.0.0.1:18081/",
+    "home": "127.0.0.1:18071",
+    "jobServer": "http://127.0.0.1:18071/eventapi.jdb188.net",
+    "speedyBaseMark": "4",
+    "achievementUI": "http://127.0.0.1:18071/achvui247soam.zyfira69.com/",
+    "memberSysUI": "http://127.0.0.1:18071/memgcp247soam.mxeomber.com"
+  }
+}

@@ -1,0 +1,1 @@
+const u=3,e=[185,169],s=3,r=1,n=["#f1e1a8","#430300"],o=[{fnName:"respinRestructure"}],a=[{fnName:"renderKingkongColumn"}],t={row:3,size:e,column:s,winLineType:r,backgroundColor:n,preProcRequests:o,baseFilterRequests:a};export{n as backgroundColor,a as baseFilterRequests,s as column,t as default,o as preProcRequests,u as row,e as size,r as winLineType};

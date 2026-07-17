@@ -1,0 +1,1 @@
+const r=4,e=[182,137],n=5,s={extendPlayerWin:null},l=0,o=1,a=["#FFEBB7","#FFDFC8"],i=[{fnName:"lockWildFromRespin"}],t={row:4,size:e,column:n,extendI18n:s,wildSymbol:l,winLineType:o,backgroundColor:a,freeFilterRequests:i};export{a as backgroundColor,n as column,t as default,s as extendI18n,i as freeFilterRequests,r as row,e as size,l as wildSymbol,o as winLineType};

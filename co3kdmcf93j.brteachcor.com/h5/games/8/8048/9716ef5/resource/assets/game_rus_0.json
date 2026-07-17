@@ -1,0 +1,16 @@
+{
+  "file": "game_rus_0.png",
+  "frames": { 
+    "BigWin_MSG01_rus_png": {"x":1,"y":567,"w":1793,"h":253,"offX":54,"offY":175,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_FX_rus_png": {"x":1,"y":1,"w":1920,"h":282,"offX":0,"offY":182,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_rus_png": {"x":1,"y":1027,"w":1374,"h":200,"offX":251,"offY":225,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_FX_rus_png": {"x":1,"y":285,"w":1920,"h":280,"offX":0,"offY":182,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_rus_png": {"x":1,"y":822,"w":1581,"h":203,"offX":166,"offY":225,"sourceW":1920,"sourceH":630}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1922x1228",
+    "smartupdate": "$TexturePacker:SmartUpdate:275c48b95f65ce64a46c8d2d2a3118e0:45d64c81cf649b0d3edf39e1cb7a675d:ed3acec1ccf71d35f3c3ab392c1979d0$"
+  }
+}

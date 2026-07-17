@@ -1,0 +1,1 @@
+const d=3,o=[185,169],n=5,s={roundOdds:null},a=["#04052c","#1a0d48"],e={row:3,size:o,column:n,extendI18n:s,backgroundColor:a};export{a as backgroundColor,n as column,e as default,s as extendI18n,d as row,o as size};

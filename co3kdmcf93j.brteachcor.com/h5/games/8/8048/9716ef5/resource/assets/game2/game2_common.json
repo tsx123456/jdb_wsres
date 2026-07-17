@@ -1,0 +1,15 @@
+{"file":"game2_common.png","frames":{
+"GP_Game_2_Background_jpg":{"x":0,"y":0,"w":1648,"h":927,"offX":0,"offY":0,"sourceW":1648,"sourceH":927},
+"GP_LD_Background_01_png":{"x":0,"y":929,"w":961,"h":507,"offX":65,"offY":84,"sourceW":1090,"sourceH":675},
+"GP_LD_Background_02_png":{"x":0,"y":1438,"w":961,"h":507,"offX":65,"offY":84,"sourceW":1090,"sourceH":675},
+"GP_TS_Item01_01_png":{"x":963,"y":1438,"w":516,"h":507,"offX":0,"offY":0,"sourceW":517,"sourceH":507},
+"GP_TS_Item01_02_png":{"x":963,"y":929,"w":529,"h":507,"offX":0,"offY":0,"sourceW":529,"sourceH":507},
+"GP_TS_Item02_01_png":{"x":1650,"y":436,"w":170,"h":119,"offX":2,"offY":32,"sourceW":173,"sourceH":157},
+"GP_TS_Item02_02_png":{"x":1650,"y":314,"w":171,"h":120,"offX":1,"offY":31,"sourceW":173,"sourceH":157},
+"GP_TS_Item02_03_png":{"x":1822,"y":144,"w":158,"h":105,"offX":4,"offY":46,"sourceW":173,"sourceH":157},
+"GP_TS_Item03_01_png":{"x":1494,"y":929,"w":111,"h":153,"offX":1,"offY":1,"sourceW":114,"sourceH":157},
+"GP_TS_Item03_02_png":{"x":1650,"y":557,"w":97,"h":139,"offX":8,"offY":9,"sourceW":114,"sourceH":157},
+"GP_TS_Item03_03_png":{"x":1494,"y":1084,"w":86,"h":124,"offX":18,"offY":24,"sourceW":114,"sourceH":157},
+"GP_TS_Item04_01_png":{"x":1650,"y":0,"w":170,"h":155,"offX":0,"offY":3,"sourceW":176,"sourceH":158},
+"GP_TS_Item04_02_png":{"x":1650,"y":157,"w":170,"h":155,"offX":0,"offY":3,"sourceW":176,"sourceH":158},
+"GP_TS_Item04_03_png":{"x":1822,"y":0,"w":170,"h":142,"offX":0,"offY":16,"sourceW":176,"sourceH":158}}}

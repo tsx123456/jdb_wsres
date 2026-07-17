@@ -1,0 +1,1 @@
+import{N as a,O as o,P as s,M as t}from"./game-vue-Bt2hRmS8.js";const c={id:"close-page"},p={__name:"close",setup(l){return(e,r)=>(t(),a("div",c,[o("h1",null,s(e.$t("global.closepage")),1)]))}};export{p as default};

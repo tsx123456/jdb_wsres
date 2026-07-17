@@ -1,0 +1,22 @@
+{
+  "file": "game_id_0.png",
+  "frames": { 
+    "BigWin_MSG01_id_png": {"x":1,"y":683,"w":1201,"h":161,"offX":360,"offY":243,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_FX_id_png": {"x":1,"y":1,"w":1920,"h":254,"offX":0,"offY":196,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_id_png": {"x":1,"y":1811,"w":1201,"h":161,"offX":360,"offY":243,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_FX_id_png": {"x":1,"y":257,"w":1920,"h":254,"offX":0,"offY":197,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_id_png": {"x":1,"y":513,"w":1201,"h":168,"offX":360,"offY":242,"sourceW":1920,"sourceH":630},
+    "Free_MSG01_id_png": {"x":1204,"y":555,"w":479,"h":40,"offX":0,"offY":3,"sourceW":956,"sourceH":43},
+    "Free_MSG02_id_png": {"x":1204,"y":513,"w":483,"h":40,"offX":0,"offY":3,"sourceW":956,"sourceH":43},
+    "Free_MSG03_id_png": {"x":1204,"y":597,"w":343,"h":37,"offX":3,"offY":5,"sourceW":956,"sourceH":43},
+    "TS_MSG01_id_png": {"x":1,"y":846,"w":1033,"h":481,"offX":52,"offY":95,"sourceW":1086,"sourceH":634},
+    "TS_MSG02_id_png": {"x":1,"y":1329,"w":1033,"h":480,"offX":52,"offY":96,"sourceW":1086,"sourceH":634},
+    "TS_MSG04_id_png": {"x":1036,"y":846,"w":897,"h":425,"offX":96,"offY":110,"sourceW":1086,"sourceH":634}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1934x1973",
+    "smartupdate": "$TexturePacker:SmartUpdate:cf6669b401c472e2873ced573811a94c:618308a278ae170aee1343d19ca9b8a9:ac9dbd3ac12d86648c4f6b4b33563519$"
+  }
+}

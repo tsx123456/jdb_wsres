@@ -1,0 +1,13 @@
+{
+  "file": "preload_rus_0.png",
+  "frames": { 
+    "Loading_BTN_rus_png": {"x":1,"y":734,"w":191,"h":41,"offX":130,"offY":39,"sourceW":450,"sourceH":124},
+    "Loading_rus_png": {"x":1,"y":1,"w":912,"h":731,"offX":195,"offY":0,"sourceW":1318,"sourceH":741}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "914x776",
+    "smartupdate": "$TexturePacker:SmartUpdate:fe2d6e53a61cace418ddd3b837fcc451:7d4af33d07cf4978604c18a41cd7adcc:393239cc93beff39963d656c1f5e7cac$"
+  }
+}

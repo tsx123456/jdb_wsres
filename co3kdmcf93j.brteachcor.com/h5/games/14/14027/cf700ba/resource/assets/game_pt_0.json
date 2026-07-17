@@ -1,0 +1,21 @@
+{
+  "file": "game_pt_0.png",
+  "frames": { 
+    "BigWin_MSG01_pt_png": {"x":1,"y":984,"w":1611,"h":210,"offX":153,"offY":210,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_FX_pt_png": {"x":1,"y":499,"w":1920,"h":483,"offX":0,"offY":22,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_pt_png": {"x":593,"y":1409,"w":1355,"h":211,"offX":286,"offY":210,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_FX_pt_png": {"x":1,"y":1,"w":1920,"h":496,"offX":0,"offY":7,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_pt_png": {"x":593,"y":1196,"w":1417,"h":211,"offX":252,"offY":210,"sourceW":1920,"sourceH":630},
+    "Free_MSG_pt_png": {"x":1614,"y":984,"w":299,"h":42,"offX":3,"offY":0,"sourceW":956,"sourceH":43},
+    "TS_MSG01_pt_png": {"x":1,"y":1196,"w":590,"h":357,"offX":207,"offY":116,"sourceW":1002,"sourceH":583},
+    "TS_MSG02_pt_png": {"x":667,"y":1622,"w":835,"h":339,"offX":84,"offY":125,"sourceW":1002,"sourceH":583},
+    "TS_MSG03_pt_png": {"x":1,"y":1555,"w":572,"h":357,"offX":216,"offY":116,"sourceW":1002,"sourceH":583},
+    "TS_MSG04_pt_png": {"x":1,"y":1914,"w":664,"h":83,"offX":170,"offY":253,"sourceW":1002,"sourceH":583}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "2011x1998",
+    "smartupdate": "$TexturePacker:SmartUpdate:5fadcb6ec21ec18626c77f7aa173cf82:96d188788a5e41eec4e7a13f63c6bf58:38af5635d2d67e6eb0ddb1511ad50747$"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "file": "preload_group_0.png",
+  "frames": { 
+    "Dark_Mask_png": {"x":1,"y":1,"w":1648,"h":30},
+    "Loading_BTN_png": {"x":903,"y":95,"w":399,"h":105,"offX":26,"offY":15,"sourceW":450,"sourceH":124},
+    "Loading_BTN_FX_png": {"x":903,"y":202,"w":391,"h":94,"offX":30,"offY":15,"sourceW":450,"sourceH":124},
+    "LoadingBar_01_png": {"x":903,"y":33,"w":517,"h":35},
+    "LoadingBar_02_png": {"x":903,"y":70,"w":503,"h":23},
+    "LoadingBG_png": {"x":1,"y":33,"w":900,"h":1600}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1650x1634",
+    "smartupdate": "$TexturePacker:SmartUpdate:ff498c23b90d693d389a976220b1e325:770e001d555681b5f8c6b27289209a4a:c5e5c2e4148e74771c7275e89f2be0cf$"
+  }
+}

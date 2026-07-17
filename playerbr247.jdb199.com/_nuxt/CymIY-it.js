@@ -1,0 +1,1 @@
+import{B as r}from"./j3Uw3MGf.js";import{o as t,g as o}from"./ZrFM1Wk-.js";import"./DPWSUCA9.js";import"./1qFTudpN.js";import"./XXeRgomx.js";import"./DfzK6jS7.js";import"./B1U6rftp.js";import"./BqEx-5NF.js";import"./CQCFSnzz.js";const f=Object.assign({name:"CardResultList",scrollToTop:!0},{__name:"RecordListCardList",setup(e){return(s,i)=>(t(),o(r))}});export{f as default};

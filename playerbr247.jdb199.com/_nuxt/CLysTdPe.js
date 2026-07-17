@@ -1,0 +1,1 @@
+const c=1,o=[185,169],a=[[0,0,0]],r=3,s=["#C5D2D0","#C5D2D0"],n={row:1,size:o,matrix:a,column:r,backgroundColor:s};export{s as backgroundColor,r as column,n as default,a as matrix,c as row,o as size};

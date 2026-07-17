@@ -1,0 +1,13 @@
+{
+  "file": "preload_ara_0.png",
+  "frames": { 
+    "Loading_ara_png": {"x":1,"y":1,"w":914,"h":731,"offX":194,"offY":0,"sourceW":1318,"sourceH":741},
+    "Loading_BTN_ara_png": {"x":917,"y":1,"w":64,"h":61,"offX":193,"offY":34,"sourceW":450,"sourceH":124}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "982x733",
+    "smartupdate": "$TexturePacker:SmartUpdate:aa6688b2faf197bf8b84db958f5583ef:9128be0231d616743ac3094d034df3b1:587332b8d02fa615bbb96f22407553d5$"
+  }
+}

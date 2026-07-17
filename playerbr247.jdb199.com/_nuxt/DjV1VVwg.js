@@ -1,0 +1,1 @@
+const e={},n=["#241E58","#241E58"],o=[{fnName:"addRoundOnLastRoundResult"},{fnName:"stageToExtend"},{fnName:"hideFreeGameTransitionRoundWin"}],a={extendI18n:e,backgroundColor:n,preProcRequests:o};export{n as backgroundColor,a as default,e as extendI18n,o as preProcRequests};

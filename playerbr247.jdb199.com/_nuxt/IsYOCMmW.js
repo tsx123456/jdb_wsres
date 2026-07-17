@@ -1,0 +1,1 @@
+const e=[182,140],n={goldFanBonus:null,freeSpinBonus:null,extendPlayerWin:null},s=null,a=["#F9E496","#2D2624"],l=[{fnName:"faceChangeIsTriggerReSpinFlag"}],o={size:e,extendI18n:n,winLineType:s,backgroundColor:a,preProcRequests:l};export{a as backgroundColor,o as default,n as extendI18n,l as preProcRequests,e as size,s as winLineType};

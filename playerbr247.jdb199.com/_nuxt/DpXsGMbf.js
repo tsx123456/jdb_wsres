@@ -1,0 +1,1 @@
+const l=0,o={fixedIcon:{leftSide:"honeycomb",rightSide:"honeycomb"},userBetIcon:{followRawData:!0,prefixOnRawData:"f"},showWinLoseLabel:!0},e=13,a=["#f1e1a8","#430300"],n={wildSymbol:0,iconicGamble:o,symbolAmount:e,backgroundColor:a};export{a as backgroundColor,n as default,o as iconicGamble,e as symbolAmount,l as wildSymbol};

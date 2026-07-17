@@ -1,0 +1,1 @@
+const e=[185,169],s={stage:null,scatterCount:null,freeSpinBonus:null},l=0,o=13,n=["#430300","#430300"],t=[{fnName:"lockWild",params:0}],a={size:e,extendI18n:s,wildSymbol:l,symbolAmount:o,backgroundColor:n,freeFilterRequests:t};export{n as backgroundColor,a as default,s as extendI18n,t as freeFilterRequests,e as size,o as symbolAmount,l as wildSymbol};

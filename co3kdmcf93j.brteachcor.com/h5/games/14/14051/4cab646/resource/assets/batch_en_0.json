@@ -1,0 +1,35 @@
+{
+  "file": "batch_en_0.png",
+  "frames": { 
+    "Base2_BTN1_en_png": {"x":1802,"y":535,"w":96,"h":60,"offX":0,"offY":4,"sourceW":96,"sourceH":65},
+    "Base2_BTN2_en_png": {"x":1522,"y":591,"w":135,"h":57,"offX":0,"offY":4,"sourceW":135,"sourceH":62},
+    "Base2_MSG1_en_png": {"x":1,"y":1205,"w":858,"h":270,"offX":39,"offY":123,"sourceW":938,"sourceH":606},
+    "Base2_MSG_en_png": {"x":1,"y":885,"w":950,"h":318,"offX":4,"offY":28,"sourceW":957,"sourceH":361},
+    "BigWin_MSG01_en_png": {"x":861,"y":1216,"w":942,"h":210,"offX":485,"offY":202,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_en_png": {"x":1,"y":1685,"w":1255,"h":210,"offX":332,"offY":206,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_en_png": {"x":1,"y":1477,"w":1310,"h":206,"offX":311,"offY":206,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_FX_en_png": {"x":1,"y":1,"w":1899,"h":464,"offX":16,"offY":92,"sourceW":1920,"sourceH":630},
+    "Free_MSG_en_png": {"x":1522,"y":467,"w":284,"h":43,"offX":19,"offY":0,"sourceW":956,"sourceH":43},
+    "TS_MSG01_en_png": {"x":762,"y":467,"w":758,"h":416,"offX":89,"offY":104,"sourceW":938,"sourceH":606},
+    "TS_MSG02_en_png": {"x":953,"y":885,"w":852,"h":329,"offX":41,"offY":135,"sourceW":938,"sourceH":606},
+    "TS_MSG03_en_png": {"x":1,"y":467,"w":759,"h":416,"offX":88,"offY":105,"sourceW":938,"sourceH":606},
+    "UI_BTN_01_4_en_png": {"x":1808,"y":467,"w":78,"h":66,"offX":0,"offY":4,"sourceW":78,"sourceH":74},
+    "UI_BTN_02_1_en_png": {"x":1796,"y":597,"w":98,"h":40,"offX":0,"offY":2,"sourceW":98,"sourceH":44},
+    "UI_Credit_en_png": {"x":1705,"y":588,"w":89,"h":29,"offX":0,"offY":7,"sourceW":89,"sourceH":48},
+    "UI_Menu_BTN_MSG_3_en_png": {"x":1722,"y":639,"w":160,"h":33,"offX":49,"offY":38,"sourceW":260,"sourceH":109},
+    "UI_Menu_BTN_MSG_4_en_png": {"x":1659,"y":619,"w":61,"h":33,"offX":96,"offY":38,"sourceW":260,"sourceH":109},
+    "UI_Menu_MSG_01_en_png": {"x":1522,"y":706,"w":201,"h":34,"offX":0,"offY":7,"sourceW":201,"sourceH":43},
+    "UI_Menu_MSG_02_en_png": {"x":1522,"y":654,"w":183,"h":40,"offX":0,"offY":6,"sourceW":183,"sourceH":46},
+    "UI_Menu_MSG_03_en_png": {"x":1522,"y":512,"w":278,"h":30,"offX":0,"offY":10,"sourceW":278,"sourceH":47},
+    "UI_Menu_MSG_04_en_png": {"x":1707,"y":674,"w":157,"h":30,"offX":1,"offY":4,"sourceW":158,"sourceH":38},
+    "UI_Menu_MSG_05_en_png": {"x":1522,"y":742,"w":201,"h":34,"offX":3,"offY":5,"sourceW":207,"sourceH":43},
+    "UI_Road_en_png": {"x":1522,"y":544,"w":181,"h":45,"offX":29,"offY":11,"sourceW":238,"sourceH":62},
+    "UI_Win_en_png": {"x":1705,"y":544,"w":82,"h":42,"offX":0,"offY":11,"sourceW":82,"sourceH":71}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1901x1896",
+    "smartupdate": "$TexturePacker:SmartUpdate:aac1e2c7837cd13e230c8d54918a8116:4fc5b9b4b95b4e6d426c7c0765f95665:7077b801bd1571eabb8eae91dc064a7e$"
+  }
+}

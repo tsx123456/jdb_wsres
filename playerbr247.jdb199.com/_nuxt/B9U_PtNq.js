@@ -1,0 +1,1 @@
+const n=[185,173],l={multiplier:null,freeSpinBonus:null,smashingWildDisplay:null,thunderStrikeDisplay:null},e=null,i=["#2F4752","#2F4752"],s={size:n,extendI18n:l,winLineType:e,backgroundColor:i};export{i as backgroundColor,s as default,l as extendI18n,n as size,e as winLineType};

@@ -1,0 +1,1 @@
+const e=4,i=5,n={},l=0,t="1",a=11,u=50,o=["#CA9865","#7DD3C6"],s={},m={row:4,column:5,extendI18n:n,wildSymbol:0,winLineType:"1",symbolAmount:11,winLineAmount:50,backgroundColor:o,filterFunctions:s};export{o as backgroundColor,i as column,m as default,n as extendI18n,s as filterFunctions,e as row,a as symbolAmount,l as wildSymbol,u as winLineAmount,t as winLineType};

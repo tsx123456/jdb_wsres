@@ -1,0 +1,32 @@
+{
+  "file": "batch_lao_0.png",
+  "frames": { 
+    "BigWin_MSG01_lao_png": {"x":938,"y":836,"w":460,"h":147,"offX":121,"offY":72,"sourceW":700,"sourceH":290},
+    "BigWin_MSG02_lao_png": {"x":938,"y":687,"w":610,"h":147,"offX":45,"offY":72,"sourceW":700,"sourceH":290},
+    "BigWin_MSG03_lao_png": {"x":985,"y":503,"w":662,"h":182,"offX":20,"offY":54,"sourceW":700,"sourceH":290},
+    "Bonus_MSG01_lao_png": {"x":1163,"y":438,"w":187,"h":50,"offX":0,"offY":3,"sourceW":187,"sourceH":53},
+    "Bonus_MSG03_lao_png": {"x":580,"y":1,"w":581,"h":500,"offX":193,"offY":69,"sourceW":966,"sourceH":580},
+    "Free_MSG_lao_png": {"x":637,"y":503,"w":346,"h":72,"offX":73,"offY":8,"sourceW":530,"sourceH":80},
+    "TS_MSG01_lao_png": {"x":1,"y":1,"w":577,"h":580,"offX":195,"offY":0,"sourceW":966,"sourceH":580},
+    "TS_MSG02_lao_png": {"x":1,"y":583,"w":935,"h":563,"offX":16,"offY":9,"sourceW":966,"sourceH":580},
+    "TS_MSG03_lao_png": {"x":1163,"y":1,"w":544,"h":381,"offX":211,"offY":112,"sourceW":966,"sourceH":580},
+    "UI_BTN_01_4_lao_png": {"x":1550,"y":766,"w":97,"h":34,"offX":0,"offY":32,"sourceW":99,"sourceH":94},
+    "UI_BTN_02_1_lao_png": {"x":1550,"y":802,"w":94,"h":38,"offX":15,"offY":0,"sourceW":120,"sourceH":38},
+    "UI_Credit_lao_png": {"x":1550,"y":687,"w":119,"h":35,"offX":5,"offY":2,"sourceW":130,"sourceH":48},
+    "UI_Lines_lao_png": {"x":580,"y":503,"w":55,"h":73,"offX":18,"offY":4,"sourceW":92,"sourceH":80},
+    "UI_Menu_BTN_MSG_3_lao_png": {"x":1546,"y":431,"w":109,"h":42,"offX":76,"offY":29,"sourceW":260,"sourceH":109},
+    "UI_Menu_BTN_MSG_4_lao_png": {"x":1352,"y":438,"w":89,"h":49,"offX":83,"offY":31,"sourceW":260,"sourceH":109},
+    "UI_Menu_MSG_01_lao_png": {"x":938,"y":985,"w":192,"h":43,"offX":5,"offY":0,"sourceW":201,"sourceH":43},
+    "UI_Menu_MSG_02_lao_png": {"x":1443,"y":438,"w":101,"h":46,"offX":42,"offY":0,"sourceW":183,"sourceH":46},
+    "UI_Menu_MSG_03_lao_png": {"x":1461,"y":384,"w":217,"h":45,"offX":5,"offY":1,"sourceW":278,"sourceH":47},
+    "UI_Menu_MSG_04_lao_png": {"x":938,"y":1030,"w":194,"h":34,"offX":3,"offY":1,"sourceW":200,"sourceH":38},
+    "UI_Menu_MSG_05_lao_png": {"x":1163,"y":384,"w":296,"h":52,"offX":0,"offY":1,"sourceW":296,"sourceH":53},
+    "UI_Win_lao_png": {"x":1550,"y":724,"w":100,"h":40,"offX":26,"offY":18,"sourceW":150,"sourceH":71}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1708x1147",
+    "smartupdate": "$TexturePacker:SmartUpdate:29899e60d7e8b92b421dd5ab1dfafbbb:e32469dddf2f497e21a23d626922387d:2acfdf26ba1703ced8a1c7d3a9c81ce3$"
+  }
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1500 568.75">
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_untitleGradient_65);
+      }
+
+      .st0, .st1, .st2 {
+        mix-blend-mode: multiply;
+        opacity: .5;
+      }
+
+      .st3 {
+        fill: url(#_untitleGradient_18);
+      }
+
+      .st4 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: url(#_untitleGradient_652);
+      }
+
+      .st2 {
+        fill: url(#_untitleGradient_651);
+      }
+    </style>
+    <linearGradient id="_untitleGradient_18" data-name="untitleGradient 18" x1="30.3" y1="477.88" x2="1479.91" y2="93.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fec13e"/>
+      <stop offset=".59" stop-color="#f26e1b"/>
+      <stop offset="1" stop-color="#cc1700"/>
+    </linearGradient>
+    <linearGradient id="_untitleGradient_65" data-name="untitleGradient 65" x1="394.01" y1="369.79" x2="444.9" y2="115.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e03b3b" stop-opacity="0"/>
+      <stop offset="1" stop-color="#872b41"/>
+    </linearGradient>
+    <linearGradient id="_untitleGradient_651" data-name="untitleGradient 65" x1="554.03" y1="369.04" x2="604.56" y2="116.29" xlink:href="#_untitleGradient_65"/>
+    <linearGradient id="_untitleGradient_652" data-name="untitleGradient 65" x1="1040.85" y1="361.58" x2="1089.79" y2="116.78" xlink:href="#_untitleGradient_65"/>
+    <!-- 白色徑向漸層：中心亮，邊緣淡 -->
+    <radialGradient id="lightGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#fff" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#fff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.1"/>
+    </radialGradient>
+    <!-- 高斯模糊濾鏡，讓光效果邊緣更自然 -->
+    <filter id="lightBlurFilter" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="90,100" result="blur"/>
+    </filter>
+    <!-- 遮罩：限制光效果只在 logo 區域顯示 -->
+    <mask id="logoMask" mask-type="luminance" x="-150%" y="-150%" height="400%" width="400%">
+      <g>
+        <path d="M233.36,108.85L195.12,0h373.77l-38.25,108.85H233.36ZM1045.93,142.85l-149.64,425.84h112.41l149.64-425.84h-112.41ZM764.04,0h-152.67l-38.25,108.85h179.16c94.99,0,117.03,99.41,87.84,186.09-46.37,137.71-134.36,164.73-258.27,164.73h-19.59l111.33-316.83h-112.41l-149.64,425.84h214.7c207.28,0,281.56-133.36,321.23-250.19C990.01,193.25,951.93,0,764.04,0ZM518.69,142.85h-112.41s-7.16,20.49-54.51,155.1c-25.36,72.12-54.03,112.08-84.07,134.73-29.83,22.49-65.79,26.42-114.1,26.42H39.11L.6,568.69h170.14c68.15,0,116.7-12.01,157.42-38.93,48.03-31.76,84.89-85.71,112.5-164.79l78.04-222.13ZM1362.99,216.37c21.69-24.72,37.21-58.03,37.21-90.74,0-62.41-48.29-125.63-130.38-125.63h-312.24l38.25,108.85h269.63c11.21,0,26.1,8.6,26.1,26.68,0,9.25-6.18,22.38-21.05,38.49-18.23,19.75-132.58,140-132.58,140,0,0,162.2,0,182.27,0,32.5,0,74.3,11.23,74.3,64.72,0,43.3-37.68,80.34-107.08,80.34h-204.45l-38.53,109.66h246.27c121.95,0,209.14-81.29,209.14-190.76,0-80.49-47.88-154.8-136.85-161.63Z" fill="white"/>
+        <path d="M439.68,367.67l78.57-223.56.44-1.26h-112.41s-7.16,20.49-54.51,155.1c-12.51,35.57-25.82,63.3-39.7,85.01h121.94c1.93-4.99,3.82-10.07,5.67-15.28Z" fill="white"/>
+        <polygon points="561.17 142.85 673.59 142.85 589.2 382.95 476.91 382.95 561.17 142.85" fill="white"/>
+        <polygon points="1045.93 142.85 1158.34 142.85 1076.87 374.71 964.46 374.71 1045.93 142.85" fill="white"/>
+      </g>
+    </mask>
+  </defs>
+  <g class="st4">
+    <g id="_layer_1" data-name="layer_1">
+      <g>
+        <path class="st3" d="M233.36,108.85L195.12,0h373.77l-38.25,108.85H233.36ZM1045.93,142.85l-149.64,425.84h112.41l149.64-425.84h-112.41ZM764.04,0h-152.67l-38.25,108.85h179.16c94.99,0,117.03,99.41,87.84,186.09-46.37,137.71-134.36,164.73-258.27,164.73h-19.59l111.33-316.83h-112.41l-149.64,425.84h214.7c207.28,0,281.56-133.36,321.23-250.19C990.01,193.25,951.93,0,764.04,0ZM518.69,142.85h-112.41s-7.16,20.49-54.51,155.1c-25.36,72.12-54.03,112.08-84.07,134.73-29.83,22.49-65.79,26.42-114.1,26.42H39.11L.6,568.69h170.14c68.15,0,116.7-12.01,157.42-38.93,48.03-31.76,84.89-85.71,112.5-164.79l78.04-222.13ZM1362.99,216.37c21.69-24.72,37.21-58.03,37.21-90.74,0-62.41-48.29-125.63-130.38-125.63h-312.24l38.25,108.85h269.63c11.21,0,26.1,8.6,26.1,26.68,0,9.25-6.18,22.38-21.05,38.49-18.23,19.75-132.58,140-132.58,140,0,0,162.2,0,182.27,0,32.5,0,74.3,11.23,74.3,64.72,0,43.3-37.68,80.34-107.08,80.34h-204.45l-38.53,109.66h246.27c121.95,0,209.14-81.29,209.14-190.76,0-80.49-47.88-154.8-136.85-161.63Z"/>
+        <path class="st0" d="M439.68,367.67l78.57-223.56.44-1.26h-112.41s-7.16,20.49-54.51,155.1c-12.51,35.57-25.82,63.3-39.7,85.01h121.94c1.93-4.99,3.82-10.07,5.67-15.28Z"/>
+        <polygon class="st2" points="561.17 142.85 673.59 142.85 589.2 382.95 476.91 382.95 561.17 142.85"/>
+        <polygon class="st1" points="1045.93 142.85 1158.34 142.85 1076.87 374.71 964.46 374.71 1045.93 142.85"/>
+      </g>
+    </g>
+  </g>
+  <!-- 改進的光效果：使用橢圓、高斯模糊和遮罩 -->
+  <g mask="url(#logoMask)">
+    <g transform="rotate(-20)">
+      <ellipse
+        id="lightEffect"
+        rx="300"
+        ry="650"
+        filter="url(#lightBlurFilter)"
+        fill="url(#lightGradient)"
+        transform="matrix(1.168686,-0.491568,1.233155,2.931781,-325.166219,600.002814)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="-325.166219,600.002814; 1874.202058,400"
+          dur="1.5s"
+          repeatCount="1"
+          calcMode="spline"
+          keyTimes="0;1"
+          keySplines="0.7 0 1 1"
+        />
+      </ellipse>
+    </g>
+  </g>
+</svg>

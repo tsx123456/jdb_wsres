@@ -1,0 +1,1 @@
+import{a6 as o,e as s,r}from"./CSvvp-CP.js";const i=o(()=>{const e=s(),a=e.getAvailableGameType;if((e.user||{}).availableGameType){for(const t of Object.keys(a))if(a[t].machineTypeReports.length>0)break}if(!(e.user||{}).accessToken)return r("/")});export{i as default};

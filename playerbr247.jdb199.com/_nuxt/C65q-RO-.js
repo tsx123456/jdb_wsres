@@ -1,0 +1,1 @@
+const m=1,o=[185,256],a=2,s=[[0,0]],r=0,e=13,t=["#f1e1a8","#430300"],l=[{fnName:"fafaDataRestructor"}],u={row:1,size:o,column:a,matrix:s,wildSymbol:r,symbolAmount:e,backgroundColor:t,preProcRequests:l};export{t as backgroundColor,a as column,u as default,s as matrix,l as preProcRequests,m as row,o as size,e as symbolAmount,r as wildSymbol};

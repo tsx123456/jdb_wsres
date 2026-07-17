@@ -1,0 +1,434 @@
+{
+	"groups": [
+		{
+			"keys": "UI_LoadingBar_v3_02_png,UI_LoadingBar_v3_01_png",
+			"name": "preloadCommon"
+		},
+		{
+			"keys": "GP_Loading_en_png,LoadingBar_03_en_png",
+			"name": "preload_en"
+		},
+		{
+			"keys": "GP_Loading_th_png,LoadingBar_03_th_png",
+			"name": "preload_th"
+		},
+		{
+			"keys": "GP_Loading_cn_png,LoadingBar_03_cn_png",
+			"name": "preload_cn"
+		},
+		{
+			"keys": "LineRect_json,LineRect_png,BigWin_json,GP_Base_SymbolAll_json,Number_LineWin_json,Number_LineWin_png,IUN_WhiteMask_Edit_Bg_png,GP_Base_SymbolAll_png,BigWin_png,LuckyHit_png,LuckyHit_json,Base_Common_json,SS_Base_WW_png,SS_Base_WW_json,SS_Base_M1toM5_png,SS_Base_M1toM5_json,SS_Base_M1_png,SS_Base_M1_json,SS_Base_C1_png,SS_Base_C1_json,GP_Free_SymbolAll_png,GP_Free_SymbolAll_json,Free_Won_Credits_Number_png,Free_Won_Credits_Number_fnt,GP_SL_SymbolAll_png,GP_SL_SymbolAll_json,JP_FNT_fnt,JP_FS_in_png,JP_FS_loop_png,light03_png,JP_FS_in_json,JP_FS_loop_json",
+			"name": "baseViewCommon"
+		},
+		{
+			"keys": "",
+			"name": "baseView_en"
+		},
+		{
+			"keys": "",
+			"name": "baseView_th"
+		},
+		{
+			"keys": "",
+			"name": "baseView_cn"
+		},
+		{
+			"keys": "Free_Desc_Font_fnt,Free_Desc_Font_png,UI_Free_Num_png,UI_Free_Num_fnt,SS_Free_ShowM1_png,SS_Free_ShowM2_png,SS_Free_ShowM5_png,SS_Free_ShowM2_json,SS_Free_ShowM1_json,SS_Free_ShowM5_json,Free_Desc_json,SS_Free_M4_M5_png,SS_Free_M2_M3_png,SS_Free_M1_png,SS_Free_M1_json,SS_Free_M2_M3_json,SS_Free_M4_M5_json,SS_Show_M3_M4_png,SS_Show_M3_M4_json",
+			"name": "freeViewCommon"
+		},
+		{
+			"keys": "Free_Desc_EN_json",
+			"name": "freeView_en"
+		},
+		{
+			"keys": "Free_Desc_TH_json",
+			"name": "freeView_th"
+		},
+		{
+			"keys": "Free_Desc_CN_json",
+			"name": "freeView_cn"
+		},
+		{
+			"keys": "GP_SL_SymbolAll_json,GP_SL_SymbolAll_png",
+			"name": "preload"
+		},
+		{
+			"keys": "GP_Loading_vn_png,LoadingBar_03_vn_png",
+			"name": "preload_vn"
+		},
+		{
+			"keys": "GP_Loading_id_png,LoadingBar_03_id_png",
+			"name": "preload_id"
+		},
+		{
+			"keys": "",
+			"name": "baseView_vn"
+		},
+		{
+			"keys": "",
+			"name": "baseView_id"
+		},
+		{
+			"keys": "Free_Desc_VN_json",
+			"name": "freeView_vn"
+		},
+		{
+			"keys": "Free_Desc_ID_json",
+			"name": "freeView_id"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/baseView/BigWin.png",
+			"type": "image",
+			"name": "BigWin_png"
+		},
+		{
+			"url": "assets/baseView/GP_Base_SymbolAll.png",
+			"type": "image",
+			"name": "GP_Base_SymbolAll_png"
+		},
+		{
+			"url": "assets/baseView/IUN_WhiteMask_Edit_Bg.png",
+			"type": "image",
+			"name": "IUN_WhiteMask_Edit_Bg_png"
+		},
+		{
+			"url": "assets/baseView/Number_LineWin.png",
+			"type": "image",
+			"name": "Number_LineWin_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_Font.fnt",
+			"type": "font",
+			"name": "Free_Desc_Font_fnt"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_Font.png",
+			"type": "image",
+			"name": "Free_Desc_Font_png"
+		},
+		{
+			"url": "assets/freeView/Free_Won_Credits_Number.fnt",
+			"type": "font",
+			"name": "Free_Won_Credits_Number_fnt"
+		},
+		{
+			"url": "assets/freeView/Free_Won_Credits_Number.png",
+			"type": "image",
+			"name": "Free_Won_Credits_Number_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_cn.png",
+			"type": "image",
+			"name": "GP_Loading_cn_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_en.png",
+			"type": "image",
+			"name": "GP_Loading_en_png"
+		},
+		{
+			"url": "assets/baseView/BigWin.json",
+			"type": "json",
+			"name": "BigWin_json"
+		},
+		{
+			"url": "assets/baseView/GP_Base_SymbolAll.json",
+			"type": "json",
+			"name": "GP_Base_SymbolAll_json"
+		},
+		{
+			"url": "assets/baseView/Number_LineWin.json",
+			"type": "json",
+			"name": "Number_LineWin_json"
+		},
+		{
+			"url": "assets/baseView/winLine/LineRect.png",
+			"type": "image",
+			"name": "LineRect_png"
+		},
+		{
+			"url": "assets/baseView/winLine/LineRect.json",
+			"type": "json",
+			"name": "LineRect_json"
+		},
+		{
+			"url": "assets/freeView/GP_Free_SymbolAll.png",
+			"type": "image",
+			"name": "GP_Free_SymbolAll_png"
+		},
+		{
+			"url": "assets/freeView/GP_Free_SymbolAll.json",
+			"type": "json",
+			"name": "GP_Free_SymbolAll_json"
+		},
+		{
+			"url": "assets/freeView/UI_Free_Num.fnt",
+			"type": "font",
+			"name": "UI_Free_Num_fnt"
+		},
+		{
+			"url": "assets/freeView/UI_Free_Num.png",
+			"type": "image",
+			"name": "UI_Free_Num_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_ShowM1.png",
+			"type": "image",
+			"name": "SS_Free_ShowM1_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_ShowM2.png",
+			"type": "image",
+			"name": "SS_Free_ShowM2_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_ShowM5.png",
+			"type": "image",
+			"name": "SS_Free_ShowM5_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_ShowM2.json",
+			"type": "json",
+			"name": "SS_Free_ShowM2_json"
+		},
+		{
+			"url": "assets/freeView/SS_Free_ShowM1.json",
+			"type": "json",
+			"name": "SS_Free_ShowM1_json"
+		},
+		{
+			"url": "assets/freeView/SS_Free_ShowM5.json",
+			"type": "json",
+			"name": "SS_Free_ShowM5_json"
+		},
+		{
+			"url": "assets/baseView/LuckyHit.png",
+			"type": "image",
+			"name": "LuckyHit_png"
+		},
+		{
+			"url": "assets/baseView/LuckyHit.json",
+			"type": "json",
+			"name": "LuckyHit_json"
+		},
+		{
+			"url": "assets/baseView/SS_Base_C1.png",
+			"type": "image",
+			"name": "SS_Base_C1_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_M1.png",
+			"type": "image",
+			"name": "SS_Base_M1_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_M1toM5.png",
+			"type": "image",
+			"name": "SS_Base_M1toM5_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_WW.png",
+			"type": "image",
+			"name": "SS_Base_WW_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_M1.png",
+			"type": "image",
+			"name": "SS_Free_M1_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_M2_M3.png",
+			"type": "image",
+			"name": "SS_Free_M2_M3_png"
+		},
+		{
+			"url": "assets/freeView/SS_Free_M4_M5.png",
+			"type": "image",
+			"name": "SS_Free_M4_M5_png"
+		},
+		{
+			"url": "assets/freeView/SS_Show_M3_M4.png",
+			"type": "image",
+			"name": "SS_Show_M3_M4_png"
+		},
+		{
+			"url": "assets/baseView/SS_Base_M1.json",
+			"type": "json",
+			"name": "SS_Base_M1_json"
+		},
+		{
+			"url": "assets/baseView/SS_Base_C1.json",
+			"type": "json",
+			"name": "SS_Base_C1_json"
+		},
+		{
+			"url": "assets/baseView/SS_Base_WW.json",
+			"type": "json",
+			"name": "SS_Base_WW_json"
+		},
+		{
+			"url": "assets/baseView/SS_Base_M1toM5.json",
+			"type": "json",
+			"name": "SS_Base_M1toM5_json"
+		},
+		{
+			"url": "assets/freeView/SS_Free_M1.json",
+			"type": "json",
+			"name": "SS_Free_M1_json"
+		},
+		{
+			"url": "assets/freeView/SS_Free_M4_M5.json",
+			"type": "json",
+			"name": "SS_Free_M4_M5_json"
+		},
+		{
+			"url": "assets/freeView/SS_Show_M3_M4.json",
+			"type": "json",
+			"name": "SS_Show_M3_M4_json"
+		},
+		{
+			"url": "assets/freeView/SS_Free_M2_M3.json",
+			"type": "json",
+			"name": "SS_Free_M2_M3_json"
+		},
+		{
+			"url": "assets/baseView/Base_Common.json",
+			"type": "sheet",
+			"name": "Base_Common_json",
+			"subkeys": "C1_Rect_png,GP_Base_SymbolBG_png,JP_Light_01_png,JP_Light_02_png,UI_Base_Reel_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc.json",
+			"type": "sheet",
+			"name": "Free_Desc_json",
+			"subkeys": "Free_Desc_WonCredits_bg_png,Free_Desc_WonCredits_effect1_png,Free_Desc_WonCredits_effect2_png,GP_Free_SymbolBG_png,UI_Free_Reel_png,UI_TS_Board_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_EN.json",
+			"type": "sheet",
+			"name": "Free_Desc_EN_json",
+			"subkeys": "UI_Free_Msg01_en_png,UI_Free_Msg02_en_png,UI_TS_Word01_en_png,UI_TS_Word02_en_png,UI_TS_Word03_en_png,UI_TS_Word04_en_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_CN.json",
+			"type": "sheet",
+			"name": "Free_Desc_CN_json",
+			"subkeys": "UI_Free_Msg01_cn_png,UI_Free_Msg02_cn_png,UI_TS_Word01_cn_png,UI_TS_Word02_cn_png,UI_TS_Word03_cn_png,UI_TS_Word04_cn_png"
+		},
+		{
+			"url": "assets/baseView/GP_SL_SymbolAll.json",
+			"type": "json",
+			"name": "GP_SL_SymbolAll_json"
+		},
+		{
+			"url": "assets/baseView/GP_SL_SymbolAll.png",
+			"type": "image",
+			"name": "GP_SL_SymbolAll_png"
+		},
+		{
+			"url": "assets/preload/UI_LoadingBar_v3_01.png",
+			"type": "image",
+			"name": "UI_LoadingBar_v3_01_png"
+		},
+		{
+			"url": "assets/preload/UI_LoadingBar_v3_02.png",
+			"type": "image",
+			"name": "UI_LoadingBar_v3_02_png"
+		},
+		{
+			"url": "assets/preload/LoadingBar_03_cn.png",
+			"type": "image",
+			"name": "LoadingBar_03_cn_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_th.png",
+			"type": "image",
+			"name": "GP_Loading_th_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_TH.json",
+			"type": "sheet",
+			"name": "Free_Desc_TH_json",
+			"subkeys": "UI_Free_Msg01_th_png,UI_Free_Msg02_th_png,UI_TS_Word01_th_png,UI_TS_Word02_th_png,UI_TS_Word03_th_png,UI_TS_Word04_th_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_vn.png",
+			"type": "image",
+			"name": "GP_Loading_vn_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_VN.json",
+			"type": "sheet",
+			"name": "Free_Desc_VN_json",
+			"subkeys": "UI_Free_Msg01_vn_png,UI_Free_Msg02_vn_png,UI_TS_Word01_vn_png,UI_TS_Word02_vn_png,UI_TS_Word03_vn_png,UI_TS_Word04_vn_png"
+		},
+		{
+			"url": "assets/preload/LoadingBar_03_en.png",
+			"type": "image",
+			"name": "LoadingBar_03_en_png"
+		},
+		{
+			"url": "assets/preload/GP_Loading_id.png",
+			"type": "image",
+			"name": "GP_Loading_id_png"
+		},
+		{
+			"url": "assets/preload/LoadingBar_03_th.png",
+			"type": "image",
+			"name": "LoadingBar_03_th_png"
+		},
+		{
+			"url": "assets/preload/LoadingBar_03_vn.png",
+			"type": "image",
+			"name": "LoadingBar_03_vn_png"
+		},
+		{
+			"url": "assets/preload/LoadingBar_03_id.png",
+			"type": "image",
+			"name": "LoadingBar_03_id_png"
+		},
+		{
+			"url": "assets/freeView/Free_Desc_ID.json",
+			"type": "sheet",
+			"name": "Free_Desc_ID_json",
+			"subkeys": "UI_Free_Msg01_id_png,UI_Free_Msg02_id_png,UI_TS_Word01_id_png,UI_TS_Word02_id_png,UI_TS_Word03_id_png,UI_TS_Word04_id_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FNT.fnt",
+			"type": "font",
+			"name": "JP_FNT_fnt"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FNT.png",
+			"type": "image",
+			"name": "JP_FNT_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_in.png",
+			"type": "image",
+			"name": "JP_FS_in_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_loop.png",
+			"type": "image",
+			"name": "JP_FS_loop_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/light03.png",
+			"type": "image",
+			"name": "light03_png"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_in.json",
+			"type": "json",
+			"name": "JP_FS_in_json"
+		},
+		{
+			"url": "assets/baseView/jackpot/JP_FS_loop.json",
+			"type": "json",
+			"name": "JP_FS_loop_json"
+		}
+	]
+}

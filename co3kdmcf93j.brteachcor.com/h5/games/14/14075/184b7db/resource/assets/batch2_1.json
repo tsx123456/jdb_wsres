@@ -1,0 +1,13 @@
+{
+  "file": "batch2_1.png",
+  "frames": { 
+    "JP_Pin_Menu_BTN_01.png32_png": {"x":1,"y":1,"w":68,"h":63},
+    "JP_Pin_Menu_BTN_02.png32_png": {"x":71,"y":1,"w":68,"h":63}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "140x65",
+    "smartupdate": "$TexturePacker:SmartUpdate:20b84a9dc36886e54b674d33782e0b5c:2bb3ed4c7e0d6778e3ff7b1d18591309:eb455903bdea2703840887cdbbb487d7$"
+  }
+}

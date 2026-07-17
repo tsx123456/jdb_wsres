@@ -1,0 +1,21 @@
+{
+  "file": "game2_0.png",
+  "frames": { 
+    "Free_MSG_Board_png": {"x":988,"y":802,"w":478,"h":61},
+    "Free_Reel_png": {"x":1,"y":1,"w":1048,"h":598,"offX":76,"offY":100,"sourceW":1200,"sourceH":800},
+    "Free_Symbol1_Item4_png": {"x":1468,"y":802,"w":452,"h":266,"offX":168,"offY":0,"sourceW":824,"sourceH":600},
+    "Free_Symbol1_Item5_png": {"x":988,"y":865,"w":239,"h":237,"offX":705,"offY":171,"sourceW":1648,"sourceH":1200},
+    "Free_Symbol1_Xer6_png": {"x":1830,"y":1,"w":157,"h":103,"offX":222,"offY":250,"sourceW":600,"sourceH":600},
+    "Free_Symbol1_Xer7_png": {"x":1229,"y":865,"w":157,"h":104,"offX":222,"offY":250,"sourceW":600,"sourceH":600},
+    "Free_Symbol1_Xer8_png": {"x":1229,"y":971,"w":159,"h":103,"offX":221,"offY":250,"sourceW":600,"sourceH":600},
+    "Free_Symbol1_Xer9_png": {"x":1830,"y":106,"w":157,"h":103,"offX":222,"offY":251,"sourceW":600,"sourceH":600},
+    "TS_FX02_png": {"x":1051,"y":1,"w":777,"h":799,"offX":423,"offY":73,"sourceW":1648,"sourceH":927},
+    "TS_MSG_BG_png": {"x":1,"y":601,"w":985,"h":525,"offX":108,"offY":134,"sourceW":1200,"sourceH":800}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1988x1127",
+    "smartupdate": "$TexturePacker:SmartUpdate:9e1d5f9ab66ab4c30a1963f53f2cd694:651cf9e2797eb74ac479185a865d1431:8ca81048b6006f8df65c2c1b9f5b2e10$"
+  }
+}
