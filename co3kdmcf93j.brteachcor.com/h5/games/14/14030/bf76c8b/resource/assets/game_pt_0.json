@@ -1,0 +1,17 @@
+{
+  "file": "game_pt_0.png",
+  "frames": { 
+    "14030_pt_png": {"x":1614,"y":984,"w":187,"h":89,"offX":29,"offY":1,"sourceW":245,"sourceH":90},
+    "BigWin_MSG01_pt_png": {"x":1,"y":984,"w":1611,"h":210,"offX":153,"offY":210,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_FX_pt_png": {"x":1,"y":499,"w":1920,"h":483,"offX":0,"offY":22,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG02_pt_png": {"x":1,"y":1409,"w":1355,"h":211,"offX":286,"offY":210,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_FX_pt_png": {"x":1,"y":1,"w":1920,"h":496,"offX":0,"offY":7,"sourceW":1920,"sourceH":630},
+    "BigWin_MSG03_pt_png": {"x":1,"y":1196,"w":1417,"h":211,"offX":252,"offY":210,"sourceW":1920,"sourceH":630}
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "exporter": "egret",
+    "sheetsize": "1922x1621",
+    "smartupdate": "$TexturePacker:SmartUpdate:1ce0b325e6214a1a3a4a5a5bc9ae5062:2664a77b3901cc94e343d8dcd318eccd:38af5635d2d67e6eb0ddb1511ad50747$"
+  }
+}
