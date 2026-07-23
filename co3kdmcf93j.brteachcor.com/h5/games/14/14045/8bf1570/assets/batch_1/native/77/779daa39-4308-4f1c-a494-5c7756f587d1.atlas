@@ -1,0 +1,433 @@
+
+Base_Symbol_M1.png
+size: 2040,2016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M1
+  rotate: false
+  xy: 2, 919
+  size: 457, 523
+  orig: 496, 576
+  offset: 20, 26
+  index: -1
+M1_FX_Dot/M1_FX_Dot_00
+  rotate: false
+  xy: 727, 1826
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+M1_FX_Light/M1_FX_Light_00
+  rotate: false
+  xy: 727, 1826
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+M1_FX_Line/M1_FX_Line_00
+  rotate: false
+  xy: 727, 1826
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+M1_FX_Line/M1_FX_Line_12
+  rotate: false
+  xy: 727, 1826
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+M1_FX_Dot/M1_FX_Dot_01
+  rotate: false
+  xy: 676, 436
+  size: 261, 314
+  orig: 400, 400
+  offset: 77, 59
+  index: -1
+M1_FX_Dot/M1_FX_Dot_02
+  rotate: false
+  xy: 476, 1663
+  size: 249, 349
+  orig: 400, 400
+  offset: 92, 26
+  index: -1
+M1_FX_Dot/M1_FX_Dot_03
+  rotate: false
+  xy: 415, 175
+  size: 259, 367
+  orig: 400, 400
+  offset: 82, 28
+  index: -1
+M1_FX_Dot/M1_FX_Dot_04
+  rotate: false
+  xy: 415, 544
+  size: 257, 373
+  orig: 400, 400
+  offset: 81, 24
+  index: -1
+M1_FX_Dot/M1_FX_Dot_05
+  rotate: false
+  xy: 939, 438
+  size: 243, 312
+  orig: 400, 400
+  offset: 88, 22
+  index: -1
+M1_FX_Dot/M1_FX_Dot_06
+  rotate: false
+  xy: 676, 117
+  size: 250, 317
+  orig: 400, 400
+  offset: 83, 20
+  index: -1
+M1_FX_Dot/M1_FX_Dot_07
+  rotate: false
+  xy: 951, 1680
+  size: 228, 332
+  orig: 400, 400
+  offset: 85, 16
+  index: -1
+M1_FX_Dot/M1_FX_Dot_08
+  rotate: true
+  xy: 951, 1448
+  size: 230, 324
+  orig: 400, 400
+  offset: 84, 17
+  index: -1
+M1_FX_Dot/M1_FX_Dot_09
+  rotate: false
+  xy: 928, 108
+  size: 234, 326
+  orig: 400, 400
+  offset: 81, 16
+  index: -1
+M1_FX_Dot/M1_FX_Dot_10
+  rotate: false
+  xy: 1151, 1126
+  size: 232, 320
+  orig: 400, 400
+  offset: 83, 23
+  index: -1
+M1_FX_Dot/M1_FX_Dot_11
+  rotate: false
+  xy: 953, 773
+  size: 230, 328
+  orig: 400, 400
+  offset: 86, 16
+  index: -1
+M1_FX_Dot/M1_FX_Dot_12
+  rotate: false
+  xy: 916, 1103
+  size: 233, 328
+  orig: 400, 400
+  offset: 83, 17
+  index: -1
+M1_FX_Dot/M1_FX_Dot_13
+  rotate: false
+  xy: 1164, 135
+  size: 231, 301
+  orig: 400, 400
+  offset: 79, 45
+  index: -1
+M1_FX_Dot/M1_FX_Dot_14
+  rotate: false
+  xy: 1181, 1710
+  size: 222, 302
+  orig: 400, 400
+  offset: 81, 45
+  index: -1
+M1_FX_Dot/M1_FX_Dot_15
+  rotate: true
+  xy: 1277, 1500
+  size: 208, 309
+  orig: 400, 400
+  offset: 83, 45
+  index: -1
+M1_FX_Dot/M1_FX_Dot_16
+  rotate: true
+  xy: 1397, 82
+  size: 201, 305
+  orig: 400, 400
+  offset: 85, 45
+  index: -1
+M1_FX_Dot/M1_FX_Dot_17
+  rotate: false
+  xy: 1185, 821
+  size: 214, 303
+  orig: 400, 400
+  offset: 89, 45
+  index: -1
+M1_FX_Dot/M1_FX_Dot_18
+  rotate: false
+  xy: 1633, 513
+  size: 199, 306
+  orig: 400, 400
+  offset: 87, 43
+  index: -1
+M1_FX_Dot/M1_FX_Dot_19
+  rotate: true
+  xy: 1588, 1521
+  size: 187, 304
+  orig: 400, 400
+  offset: 107, 44
+  index: -1
+M1_FX_Dot/M1_FX_Dot_20
+  rotate: false
+  xy: 1704, 207
+  size: 183, 304
+  orig: 400, 400
+  offset: 105, 44
+  index: -1
+M1_FX_Dot/M1_FX_Dot_21
+  rotate: true
+  xy: 2, 9
+  size: 179, 305
+  orig: 400, 400
+  offset: 107, 45
+  index: -1
+M1_FX_Dot/M1_FX_Dot_22
+  rotate: true
+  xy: 309, 2
+  size: 171, 287
+  orig: 400, 400
+  offset: 114, 62
+  index: -1
+M1_FX_Dot/M1_FX_Dot_23
+  rotate: true
+  xy: 1704, 35
+  size: 170, 284
+  orig: 400, 400
+  offset: 114, 64
+  index: -1
+M1_FX_Dot/M1_FX_Dot_24
+  rotate: true
+  xy: 1834, 632
+  size: 170, 181
+  orig: 400, 400
+  offset: 115, 65
+  index: -1
+M1_FX_Dot/M1_FX_Dot_25
+  rotate: false
+  xy: 1834, 804
+  size: 200, 167
+  orig: 400, 400
+  offset: 82, 132
+  index: -1
+M1_FX_Dot/M1_FX_Dot_26
+  rotate: false
+  xy: 461, 948
+  size: 161, 103
+  orig: 400, 400
+  offset: 116, 143
+  index: -1
+M1_FX_EyeGlow
+  rotate: false
+  xy: 1869, 1098
+  size: 77, 73
+  orig: 128, 128
+  offset: 24, 29
+  index: -1
+M1_FX_Light/M1_FX_Light_01
+  rotate: false
+  xy: 1869, 1173
+  size: 76, 76
+  orig: 300, 300
+  offset: 112, 101
+  index: -1
+M1_FX_Light/M1_FX_Light_02
+  rotate: false
+  xy: 1637, 828
+  size: 156, 143
+  orig: 300, 300
+  offset: 72, 61
+  index: -1
+M1_FX_Light/M1_FX_Light_03
+  rotate: false
+  xy: 727, 1829
+  size: 210, 183
+  orig: 300, 300
+  offset: 45, 33
+  index: -1
+M1_FX_Light/M1_FX_Light_04
+  rotate: false
+  xy: 476, 1446
+  size: 219, 215
+  orig: 300, 300
+  offset: 40, 21
+  index: -1
+M1_FX_Light/M1_FX_Light_05
+  rotate: false
+  xy: 1641, 1756
+  size: 224, 256
+  orig: 300, 300
+  offset: 38, 18
+  index: -1
+M1_FX_Light/M1_FX_Light_06
+  rotate: false
+  xy: 1637, 973
+  size: 230, 262
+  orig: 300, 300
+  offset: 35, 17
+  index: -1
+M1_FX_Light/M1_FX_Light_07
+  rotate: false
+  xy: 1401, 821
+  size: 234, 265
+  orig: 300, 300
+  offset: 33, 17
+  index: -1
+M1_FX_Light/M1_FX_Light_08
+  rotate: false
+  xy: 1385, 553
+  size: 234, 266
+  orig: 300, 300
+  offset: 33, 17
+  index: -1
+M1_FX_Light/M1_FX_Light_09
+  rotate: false
+  xy: 1397, 285
+  size: 234, 266
+  orig: 300, 300
+  offset: 33, 17
+  index: -1
+M1_FX_Light/M1_FX_Light_10
+  rotate: false
+  xy: 1405, 1710
+  size: 234, 265
+  orig: 300, 300
+  offset: 33, 18
+  index: -1
+M1_FX_Light/M1_FX_Light_11
+  rotate: false
+  xy: 1572, 1237
+  size: 234, 261
+  orig: 300, 300
+  offset: 33, 22
+  index: -1
+M1_FX_Light/M1_FX_Light_12
+  rotate: false
+  xy: 598, 34
+  size: 234, 81
+  orig: 300, 300
+  offset: 33, 202
+  index: -1
+M1_FX_Light/M1_FX_Light_13
+  rotate: false
+  xy: 1401, 1089
+  size: 233, 69
+  orig: 300, 300
+  offset: 34, 214
+  index: -1
+M1_FX_Light/M1_FX_Light_14
+  rotate: false
+  xy: 834, 48
+  size: 226, 58
+  orig: 300, 300
+  offset: 37, 224
+  index: -1
+M1_FX_Light/M1_FX_Light_15
+  rotate: false
+  xy: 1062, 59
+  size: 222, 47
+  orig: 300, 300
+  offset: 39, 231
+  index: -1
+M1_FX_Light/M1_FX_Light_16
+  rotate: false
+  xy: 1405, 1978
+  size: 211, 34
+  orig: 300, 300
+  offset: 45, 243
+  index: -1
+M1_FX_Line/M1_FX_Line_01
+  rotate: false
+  xy: 1808, 1251
+  size: 136, 268
+  orig: 300, 501
+  offset: 164, 178
+  index: -1
+M1_FX_Line/M1_FX_Line_02
+  rotate: false
+  xy: 1385, 1160
+  size: 185, 338
+  orig: 300, 501
+  offset: 115, 146
+  index: -1
+M1_FX_Line/M1_FX_Line_03
+  rotate: false
+  xy: 699, 1053
+  size: 215, 378
+  orig: 300, 501
+  offset: 85, 119
+  index: -1
+M1_FX_Line/M1_FX_Line_04
+  rotate: true
+  xy: 2, 435
+  size: 237, 411
+  orig: 300, 501
+  offset: 63, 90
+  index: -1
+M1_FX_Line/M1_FX_Line_05
+  rotate: true
+  xy: 2, 674
+  size: 243, 404
+  orig: 300, 501
+  offset: 57, 78
+  index: -1
+M1_FX_Line/M1_FX_Line_06
+  rotate: true
+  xy: 2, 190
+  size: 243, 398
+  orig: 300, 501
+  offset: 57, 67
+  index: -1
+M1_FX_Line/M1_FX_Line_07
+  rotate: false
+  xy: 461, 1053
+  size: 236, 389
+  orig: 300, 501
+  offset: 64, 63
+  index: -1
+M1_FX_Line/M1_FX_Line_08
+  rotate: false
+  xy: 727, 1433
+  size: 222, 363
+  orig: 300, 501
+  offset: 78, 72
+  index: -1
+M1_FX_Line/M1_FX_Line_09
+  rotate: false
+  xy: 1184, 444
+  size: 199, 327
+  orig: 300, 501
+  offset: 101, 88
+  index: -1
+M1_FX_Line/M1_FX_Line_10
+  rotate: false
+  xy: 1867, 1738
+  size: 168, 274
+  orig: 300, 501
+  offset: 132, 113
+  index: -1
+M1_FX_Line/M1_FX_Line_11
+  rotate: false
+  xy: 1894, 1536
+  size: 139, 200
+  orig: 300, 501
+  offset: 161, 137
+  index: -1
+M1_FX_Outline
+  rotate: false
+  xy: 674, 752
+  size: 277, 299
+  orig: 366, 388
+  offset: 45, 44
+  index: -1
+M1_FX_Rays
+  rotate: false
+  xy: 2, 1444
+  size: 472, 568
+  orig: 632, 734
+  offset: 80, 81
+  index: -1
